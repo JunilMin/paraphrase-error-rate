@@ -1,0 +1,120 @@
+model:
+  name: Qwen/Qwen2.5-1.5B-Instruct
+  revision: 989aa7980e4cf806f80c7fef2b1adb7bc71aa306
+  tokenizer_revision: 989aa7980e4cf806f80c7fef2b1adb7bc71aa306
+  device: auto
+  dtype: auto
+  local_files_only: false
+training:
+  method: lora
+  examples_per_task: 10000
+  epochs: 1
+  batch_size: 1
+  gradient_accumulation: 16
+  learning_rate: 0.0001
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  gradient_checkpointing: true
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  lora_targets:
+  - q_proj
+  - v_proj
+evaluation:
+  max_length: 384
+  candidate_batch_size: 1
+  length_normalization: sum
+data:
+  eval_limit_A: null
+seeds:
+- 13
+- 42
+- 77
+tasks:
+- key: ag_news
+  dataset: fancyzhx/ag_news
+  revision: eb185aade064a813bc0b7f42de02595523103ca4
+  text_fields:
+  - text
+  labels:
+  - World
+  - Sports
+  - Business
+  - Sci/Tech
+  dataset_labels:
+  - World
+  - Sports
+  - Business
+  - Sci/Tech
+  instruction: Classify the news article.
+- key: yelp_review_full
+  dataset: Yelp/yelp_review_full
+  config_name: yelp_review_full
+  revision: c1f9ee939b7d05667af864ee1cb066393154bf85
+  text_fields:
+  - text
+  labels:
+  - 1 star
+  - 2 stars
+  - 3 stars
+  - 4 stars
+  - 5 stars
+  dataset_labels:
+  - 1 star
+  - 2 star
+  - 3 stars
+  - 4 stars
+  - 5 stars
+  instruction: Classify the review rating.
+- key: dbpedia_14
+  dataset: fancyzhx/dbpedia_14
+  config_name: dbpedia_14
+  revision: 9abd46cf7fc8b4c64290f26993c540b92aa145ac
+  text_fields:
+  - title
+  - content
+  labels:
+  - Company
+  - Educational institution
+  - Artist
+  - Athlete
+  - Office holder
+  - Means of transportation
+  - Building
+  - Natural place
+  - Village
+  - Animal
+  - Plant
+  - Album
+  - Film
+  - Written work
+  dataset_labels:
+  - Company
+  - EducationalInstitution
+  - Artist
+  - Athlete
+  - OfficeHolder
+  - MeanOfTransportation
+  - Building
+  - NaturalPlace
+  - Village
+  - Animal
+  - Plant
+  - Album
+  - Film
+  - WrittenWork
+  instruction: Classify the entity description.
+paraphrase:
+  mode: import
+  file: results/cache/paraphrases/ag_news.jsonl
+  count: 3
+  review_sample: 50
+  generator_name: null
+  generator_revision: null
+  max_new_tokens: 512
+statistics:
+  folds: 5
+pilot:
+  examples_per_task: 1000
+  eval_examples_A: 1000
