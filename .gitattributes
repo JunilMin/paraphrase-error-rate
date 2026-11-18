@@ -1,0 +1,6 @@
+# Preserve byte-exact source and evidence hashes.
+* -text
+*.gz binary
+*.png binary
+*.docx binary
+*.xlsx binary
