@@ -1,0 +1,77 @@
+{
+  "snapshot_utc": "2026-11-18T23:10:32.273731+00:00",
+  "completed_runs": [
+    {
+      "cohort": "original",
+      "seed": 13,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "original",
+      "seed": 42,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "original",
+      "seed": 77,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "more_seeds",
+      "seed": 101,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "more_seeds",
+      "seed": 202,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "more_seeds",
+      "seed": 303,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "more_seeds",
+      "seed": 404,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "more_seeds",
+      "seed": 505,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "reverse_order",
+      "seed": 13,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "reverse_order",
+      "seed": 42,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "reverse_order",
+      "seed": 77,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    }
+  ],
+  "followup_K3_planned": 11,
+  "followup_K3_completed_in_this_snapshot": 8,
+  "second_model": "in progress; partial cohort outcomes deliberately not published as final evidence",
+  "K5": "not evaluated; generation and real new-variant quality review remain pending",
+  "original_200_review": "completed author context-preservation review, 163 yes/37 no; not strict semantic equivalence or reviewer consensus",
+  "frozen_experiment_inputs_changed_by_publication": false
+}
