@@ -1,0 +1,167 @@
+[
+  {
+    "reference": "Aljundi et al. (2019)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://proceedings.neurips.cc/paper/2019/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf",
+    "verification_scope": "Published PDF title page, abstract, and Sections 1–3",
+    "supported_claim": "MIR selects replay memories using predicted interference from an upcoming update.",
+    "use_in_revision": "Related work 2.1; distinguishes replay selection from observational risk measurement.",
+    "do_not_infer": "PER neither predicts a virtual parameter update nor selects replay examples. MIR is not an implemented baseline.",
+    "bibliographic_note": "PDF author order and Maximally title retained; proceedings metadata differs.",
+    "apa_entry": "Aljundi, R., Caccia, L., Belilovsky, E., Caccia, M., Lin, M., Charlin, L., & Tuytelaars, T. (2019). Online continual learning with maximally interfered retrieval. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d’Alché-Buc, E. Fox, & R. Garnett (Eds.), Advances in neural information processing systems (Vol. 32, pp. 11849–11860). Curran Associates. https://proceedings.neurips.cc/paper_files/paper/2019/hash/15825aee15eb335cc13f9b559f166ee8-Abstract.html"
+  },
+  {
+    "reference": "Efron and Tibshirani (1993)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://www.cns.nyu.edu/~eero/math-tools14/Handouts/Efron-ch1%2B2.pdf",
+    "verification_scope": "Book excerpt Chapters 1–2; publisher preview and DOI metadata corroborated",
+    "supported_claim": "Bootstrap is a resampling framework for estimating sampling uncertainty.",
+    "use_in_revision": "Methods 3.12; supports resampling, not the adequacy of this experiment.",
+    "do_not_infer": "Fixed-OOF resampling does not include refitting or new-seed variation.",
+    "bibliographic_note": "Original 1993 edition retained; full-book reading not claimed; publisher direct access blocked.",
+    "apa_entry": "Efron, B., & Tibshirani, R. J. (1993). An introduction to the bootstrap. Chapman & Hall. https://doi.org/10.1007/978-1-4899-4541-9"
+  },
+  {
+    "reference": "Elazar et al. (2021)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://aclanthology.org/2021.tacl-1.60/",
+    "verification_scope": "Official ACL metadata and abstract",
+    "supported_claim": "ParaRel evaluates consistency across paraphrased factual queries.",
+    "use_in_revision": "Related work 2.3; motivates sensitivity to input variation.",
+    "do_not_infer": "Factual-query consistency is not label-referenced PER or later-task error prediction.",
+    "bibliographic_note": "Authors, title, year, pages and DOI match official record.",
+    "apa_entry": "Elazar, Y., Kassner, N., Ravfogel, S., Ravichander, A., Hovy, E., Schütze, H., & Goldberg, Y. (2021). Measuring and improving consistency in pretrained language models. Transactions of the Association for Computational Linguistics, 9, 1012–1031. https://doi.org/10.1162/tacl_a_00410"
+  },
+  {
+    "reference": "Hu et al. (2022)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://arxiv.org/abs/2106.09685",
+    "verification_scope": "Author preprint abstract and author list; ICLR record URL checked",
+    "supported_claim": "LoRA freezes pretrained weights and learns low-rank updates.",
+    "use_in_revision": "Related work 2.4 and Methods 3.6; adaptation mechanism.",
+    "do_not_infer": "LoRA is not evidence that this study prevents forgetting; no full-fine-tuning comparison was run.",
+    "bibliographic_note": "ICLR 2022 retained rather than replacing it with preprint year 2021; OpenReview verification page limits direct access.",
+    "apa_entry": "Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2022). LoRA: Low-rank adaptation of large language models. International Conference on Learning Representations. https://openreview.net/forum?id=nZeVKeeFYf9"
+  },
+  {
+    "reference": "Kirkpatrick et al. (2017)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://arxiv.org/abs/1612.00796",
+    "verification_scope": "Author record, abstract and linked PNAS DOI",
+    "supported_claim": "EWC slows updates to parameters important for previous tasks.",
+    "use_in_revision": "Related work 2.1; parameter regularization as a mitigation contrast.",
+    "do_not_infer": "No EWC arm or mitigation comparison exists in the current experiment.",
+    "bibliographic_note": "Journal DOI preserved; publisher direct access blocked, author manuscript available.",
+    "apa_entry": "Kirkpatrick, J., Pascanu, R., Rabinowitz, N., Veness, J., Desjardins, G., Rusu, A. A., Milan, K., Quan, J., Ramalho, T., Grabska-Barwinska, A., Hassabis, D., Clopath, C., Kumaran, D., & Hadsell, R. (2017). Overcoming catastrophic forgetting in neural networks. Proceedings of the National Academy of Sciences, 114(13), 3521–3526. https://doi.org/10.1073/pnas.1611835114"
+  },
+  {
+    "reference": "Li and Hoiem (2016)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://arxiv.org/abs/1606.09282v1",
+    "verification_scope": "Author record and abstract; ECCV identity corroborated",
+    "supported_claim": "Learning without Forgetting uses new-task data while preserving old-task responses.",
+    "use_in_revision": "Related work 2.1; distillation-based retention context.",
+    "do_not_infer": "The PER experiment does not use a distillation objective or compare LwF performance.",
+    "bibliographic_note": "ECCV 2016 conference version retained, not later journal version.",
+    "apa_entry": "Li, Z., & Hoiem, D. (2016). Learning without forgetting. In B. Leibe, J. Matas, N. Sebe, & M. Welling (Eds.), Computer vision – ECCV 2016 (pp. 614–629). Springer. https://doi.org/10.1007/978-3-319-46493-0_37"
+  },
+  {
+    "reference": "Luo et al. (2023)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://arxiv.org/abs/2308.08747v1",
+    "verification_scope": "Exact 2023 author record and abstract",
+    "supported_claim": "Studies retention of knowledge and abilities during continual LLM fine-tuning.",
+    "use_in_revision": "Related work 2.1; LLM-level empirical retention context.",
+    "do_not_infer": "Its model-scale and task findings are not assumed to apply to this Qwen-LoRA setup.",
+    "bibliographic_note": "2023 v1 retained; later 2025 revisions not silently substituted.",
+    "apa_entry": "Luo, Y., Yang, Z., Meng, F., Li, Y., Zhou, J., & Zhang, Y. (2023). An empirical study of catastrophic forgetting in large language models during continual fine-tuning [Preprint]. arXiv. https://arxiv.org/abs/2308.08747v1"
+  },
+  {
+    "reference": "Ribeiro et al. (2020)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://aclanthology.org/2020.acl-main.442/",
+    "verification_scope": "Official ACL metadata and abstract",
+    "supported_claim": "CheckList tests NLP behavior using capabilities and test types, including invariance.",
+    "use_in_revision": "Related work 2.3; motivates transformation-based evaluation.",
+    "do_not_infer": "A generated rewrite is not automatically a valid invariance test; semantic validity remains unconfirmed for the full bank.",
+    "bibliographic_note": "Authors, venue, pages and DOI match official record.",
+    "apa_entry": "Ribeiro, M. T., Wu, T., Guestrin, C., & Singh, S. (2020). Beyond accuracy: Behavioral testing of NLP models with CheckList. In D. Jurafsky, J. Chai, N. Schluter, & J. Tetreault (Eds.), Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 4902–4912). Association for Computational Linguistics. https://doi.org/10.18653/v1/2020.acl-main.442"
+  },
+  {
+    "reference": "Saito and Rehmsmeier (2015)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432",
+    "verification_scope": "Publisher article abstract, metadata and discussion of imbalance",
+    "supported_claim": "Precision-recall evaluation is informative when positives are rare.",
+    "use_in_revision": "Related work 2.4 and Methods 3.9; explains AP alongside AUROC.",
+    "do_not_infer": "This does not establish AP superiority in every setting or a universal threshold.",
+    "bibliographic_note": "Publisher author list, article number, year and DOI verified.",
+    "apa_entry": "Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. PLOS ONE, 10(3), Article e0118432. https://doi.org/10.1371/journal.pone.0118432"
+  },
+  {
+    "reference": "Scialom et al. (2022)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://aclanthology.org/2022.emnlp-main.410/",
+    "verification_scope": "Official ACL metadata and abstract",
+    "supported_claim": "Continual-T0 extends instruction learning across new tasks while evaluating retention.",
+    "use_in_revision": "Related work 2.1; distinct continual-learning setting.",
+    "do_not_infer": "CT0 and its rehearsal setting are not direct baseline results for the current unrehearsed three-task run.",
+    "bibliographic_note": "Authors, year, pages and DOI verified.",
+    "apa_entry": "Scialom, T., Chakrabarty, T., & Muresan, S. (2022). Fine-tuned language models are continual learners. In Y. Goldberg, Z. Kozareva, & Y. Zhang (Eds.), Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 6107–6122). Association for Computational Linguistics. https://doi.org/10.18653/v1/2022.emnlp-main.410"
+  },
+  {
+    "reference": "Shi et al. (2025)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://doi.org/10.1145/3735633",
+    "verification_scope": "Publisher search-index text and author arXiv record",
+    "supported_claim": "Survey distinguishes continual pretraining, domain adaptation and continual fine-tuning.",
+    "use_in_revision": "Introduction and Related work 2.1; scope of the study.",
+    "do_not_infer": "A survey does not validate the PER hypothesis or this design.",
+    "bibliographic_note": "Publisher publication date is November 20, 2025; issue 58(5) is associated with 2026. Publication year 2025 retained and ambiguity documented; direct fetch returns 403.",
+    "apa_entry": "Shi, H., Xu, Z., Wang, H., Qin, W., Wang, W., Wang, Y., Wang, Z., Ebrahimi, S., & Wang, H. (2025). Continual learning of large language models: A comprehensive survey. ACM Computing Surveys, 58(5), Article 120. https://doi.org/10.1145/3735633"
+  },
+  {
+    "reference": "Swayamdipta et al. (2020)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://aclanthology.org/2020.emnlp-main.746/",
+    "verification_scope": "Official ACL metadata and abstract",
+    "supported_claim": "Dataset cartography uses true-label confidence and its variability over training.",
+    "use_in_revision": "Related work 2.2; motivates a strong uncertainty comparison.",
+    "do_not_infer": "A single Task-A maximum candidate probability is not their full training-dynamics measure.",
+    "bibliographic_note": "Authors, year, pages and DOI verified.",
+    "apa_entry": "Swayamdipta, S., Schwartz, R., Lourie, N., Wang, Y., Hajishirzi, H., Smith, N. A., & Choi, Y. (2020). Dataset cartography: Mapping and diagnosing datasets with training dynamics. In B. Webber, T. Cohn, Y. He, & Y. Liu (Eds.), Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 9275–9293). Association for Computational Linguistics. https://doi.org/10.18653/v1/2020.emnlp-main.746"
+  },
+  {
+    "reference": "Toneva et al. (2019)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://www.cs.cmu.edu/~mktoneva/papers/iclr2019_sample_forgetting_arXiv.pdf",
+    "verification_scope": "Author-hosted ICLR PDF, Sections 1, 3 and 4",
+    "supported_claim": "Tracks example forgetting as correct-to-incorrect transitions across presentations during single-task training.",
+    "use_in_revision": "Related work 2.2 and Discussion; distinguishes transition outcomes.",
+    "do_not_infer": "Current outcomes are held-out examples at two later task checkpoints, not event counts over training updates or proof of irreversible loss.",
+    "bibliographic_note": "Exact title and author order verified; OpenReview redirects to verification, author-hosted PDF resolves.",
+    "apa_entry": "Toneva, M., Sordoni, A., Tachet des Combes, R., Trischler, A., Bengio, Y., & Gordon, G. J. (2019). An empirical study of example forgetting during deep neural network learning. International Conference on Learning Representations. https://openreview.net/forum?id=BJlxm30cKm"
+  },
+  {
+    "reference": "Yang et al. (2024)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://arxiv.org/abs/2412.15115v1",
+    "verification_scope": "Exact v1 author record and abstract",
+    "supported_claim": "Qwen2.5 report describes the base and instruction-tuned model family.",
+    "use_in_revision": "Related work 2.4 and Methods 3.6; model provenance.",
+    "do_not_infer": "Family-level benchmark findings are not evidence for this 1.5B continual-learning outcome.",
+    "bibliographic_note": "2024 v1 and APA long-author form retained; model repository revision separately pinned.",
+    "apa_entry": "Yang, A., Yang, B., Zhang, B., Hui, B., Zheng, B., Yu, B., Li, C., Liu, D., Huang, F., Wei, H., Lin, H., Yang, J., Tu, J., Zhang, J., Yang, J., Yang, J., Zhou, J., Lin, J., Dang, K., . . . Qiu, Z. (2024). Qwen2.5 technical report [Preprint]. arXiv. https://arxiv.org/abs/2412.15115v1"
+  },
+  {
+    "reference": "Zhang et al. (2015)",
+    "verified_on": "2026-11-09",
+    "primary_source": "https://proceedings.neurips.cc/paper_files/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf",
+    "verification_scope": "Official proceedings search-index PDF and author arXiv record",
+    "supported_claim": "Constructs text-classification benchmarks including AG News, Yelp and DBpedia.",
+    "use_in_revision": "Related work 2.4 and Methods 3.7; benchmark provenance.",
+    "do_not_infer": "Its classifier architecture and reported scores are not this experiment; the current Hugging Face revisions define exact inputs.",
+    "bibliographic_note": "Official title, authors and proceedings identity verified; direct fetch intermittently times out.",
+    "apa_entry": "Zhang, X., Zhao, J., & LeCun, Y. (2015). Character-level convolutional networks for text classification. In C. Cortes, N. Lawrence, D. Lee, M. Sugiyama, & R. Garnett (Eds.), Advances in neural information processing systems (Vol. 28, pp. 649–657). Curran Associates. https://proceedings.neurips.cc/paper_files/paper/2015/hash/250cf8b51c773f3f8dc8b4be867a9a02-Abstract.html"
+  }
+]
