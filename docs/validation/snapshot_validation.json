@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "evidence_archives_verified": 151,
+  "preserved_source_files_verified": 44,
+  "restored_original_files": 57,
+  "saved_original_results_audit": "passed; no training or inference",
+  "author_review_fields": "200 complete; context-based criterion unchanged",
+  "offline_unit_checks": 5,
+  "embedded_secret_pattern_scan": "passed",
+  "model_weights_virtualenvs_processed_caches_excluded": true,
+  "ongoing_experiment_files_modified": false,
+  "verified_utc": "2026-11-18T23:18:24.079355+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "scope": "saved-record consistency audit; no training, inference, OOF refit, or bootstrap rerun",
+  "seeds": {
+    "13": {
+      "evaluated": 7600,
+      "A_correct": 6924,
+      "PER_positive": 297,
+      "B_errors": 222,
+      "B_rate": 0.032062391681109186,
+      "C_errors": 289,
+      "C_rate": 0.04173887926054304
+    },
+    "42": {
+      "evaluated": 7600,
+      "A_correct": 6896,
+      "PER_positive": 254,
+      "B_errors": 239,
+      "B_rate": 0.034657772621809746,
+      "C_errors": 345,
+      "C_rate": 0.05002900232018562
+    },
+    "77": {
+      "evaluated": 7600,
+      "A_correct": 6914,
+      "PER_positive": 328,
+      "B_errors": 137,
+      "B_rate": 0.019814868382991034,
+      "C_errors": 412,
+      "C_rate": 0.05958923922476135
+    }
+  },
+  "checks": [
+    "results/tables: OOF targets, coverage, folds, and summary metrics match saved records",
+    "results/paper_analysis/tables: OOF file not present; no refit claimed"
+  ],
+  "intervals_containing_zero": 8,
+  "human_review": {
+    "pairs": 600,
+    "agreement": 0.6866666666666666,
+    "kappa": 0.14974447107774416,
+    "pending": 200
+  },
+  "source_files_unchanged": true,
+  "tracked_files": 59,
+  "status": "passed",
+  "not_verified_by_this_audit": [
+    "New LLM inference on paraphrases",
+    "Refitting OOF logistic regressions",
+    "Regenerating the 5,000 bootstrap samples",
+    "Human adjudication of pending pairs"
+  ]
+}
