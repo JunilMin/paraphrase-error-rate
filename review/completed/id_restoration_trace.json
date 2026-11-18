@@ -1,0 +1,1402 @@
+[
+  {
+    "excel_row": 2,
+    "submitted_id_value": "60.000694444444441",
+    "restored_review_id": "1440:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 3,
+    "submitted_id_value": "18.542361111111113",
+    "restored_review_id": "445:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 4,
+    "submitted_id_value": "18.543055555555554",
+    "restored_review_id": "445:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 5,
+    "submitted_id_value": "179.625",
+    "restored_review_id": "4311:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 6,
+    "submitted_id_value": "179.6263888888889",
+    "restored_review_id": "4311:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 7,
+    "submitted_id_value": "284.33333333333331",
+    "restored_review_id": "6824:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 8,
+    "submitted_id_value": "284.33402777777781",
+    "restored_review_id": "6824:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 9,
+    "submitted_id_value": "284.33472222222224",
+    "restored_review_id": "6824:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 10,
+    "submitted_id_value": "230.54305555555555",
+    "restored_review_id": "5533:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 11,
+    "submitted_id_value": "163.45833333333334",
+    "restored_review_id": "3923:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 12,
+    "submitted_id_value": "163.45902777777778",
+    "restored_review_id": "3923:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 13,
+    "submitted_id_value": "163.45972222222221",
+    "restored_review_id": "3923:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 14,
+    "submitted_id_value": "49.75138888888889",
+    "restored_review_id": "1194:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 15,
+    "submitted_id_value": "135.12569444444443",
+    "restored_review_id": "3243:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 16,
+    "submitted_id_value": "204.95833333333334",
+    "restored_review_id": "4919:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 17,
+    "submitted_id_value": "204.95972222222221",
+    "restored_review_id": "4919:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 18,
+    "submitted_id_value": "71.500694444444449",
+    "restored_review_id": "1716:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 19,
+    "submitted_id_value": "71.501388888888883",
+    "restored_review_id": "1716:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 20,
+    "submitted_id_value": "73.541666666666671",
+    "restored_review_id": "1765:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 21,
+    "submitted_id_value": "73.542361111111106",
+    "restored_review_id": "1765:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 22,
+    "submitted_id_value": "73.543055555555554",
+    "restored_review_id": "1765:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 23,
+    "submitted_id_value": "85.542361111111106",
+    "restored_review_id": "2053:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 24,
+    "submitted_id_value": "61.625694444444441",
+    "restored_review_id": "1479:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 25,
+    "submitted_id_value": "91.75",
+    "restored_review_id": "2202:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 26,
+    "submitted_id_value": "91.751388888888883",
+    "restored_review_id": "2202:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 27,
+    "submitted_id_value": "65.125694444444449",
+    "restored_review_id": "1563:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 28,
+    "submitted_id_value": "65.126388888888883",
+    "restored_review_id": "1563:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 29,
+    "submitted_id_value": "85.125694444444449",
+    "restored_review_id": "2043:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 30,
+    "submitted_id_value": "286",
+    "restored_review_id": "6864:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 31,
+    "submitted_id_value": "286.00069444444443",
+    "restored_review_id": "6864:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 32,
+    "submitted_id_value": "25.375",
+    "restored_review_id": "609:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 33,
+    "submitted_id_value": "25.375694444444445",
+    "restored_review_id": "609:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 34,
+    "submitted_id_value": "25.37638888888889",
+    "restored_review_id": "609:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 35,
+    "submitted_id_value": "50.916666666666664",
+    "restored_review_id": "1222:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 36,
+    "submitted_id_value": "50.917361111111113",
+    "restored_review_id": "1222:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 37,
+    "submitted_id_value": "50.918055555555554",
+    "restored_review_id": "1222:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 38,
+    "submitted_id_value": "144.54236111111112",
+    "restored_review_id": "3469:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 39,
+    "submitted_id_value": "146.79166666666666",
+    "restored_review_id": "3523:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 40,
+    "submitted_id_value": "146.79236111111112",
+    "restored_review_id": "3523:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 41,
+    "submitted_id_value": "146.79305555555555",
+    "restored_review_id": "3523:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 42,
+    "submitted_id_value": "126.79166666666667",
+    "restored_review_id": "3043:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 43,
+    "submitted_id_value": "126.79236111111111",
+    "restored_review_id": "3043:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 44,
+    "submitted_id_value": "126.79305555555555",
+    "restored_review_id": "3043:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 45,
+    "submitted_id_value": "78.625",
+    "restored_review_id": "1887:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 46,
+    "submitted_id_value": "95.709722222222226",
+    "restored_review_id": "2297:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 47,
+    "submitted_id_value": "290",
+    "restored_review_id": "6960:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 48,
+    "submitted_id_value": "249.66666666666666",
+    "restored_review_id": "5992:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 49,
+    "submitted_id_value": "249.66805555555555",
+    "restored_review_id": "5992:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 50,
+    "submitted_id_value": "237.37569444444443",
+    "restored_review_id": "5697:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 51,
+    "submitted_id_value": "126.66666666666667",
+    "restored_review_id": "3040:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 52,
+    "submitted_id_value": "293.125",
+    "restored_review_id": "7035:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 53,
+    "submitted_id_value": "96.416666666666671",
+    "restored_review_id": "2314:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 54,
+    "submitted_id_value": "96.418055555555554",
+    "restored_review_id": "2314:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 55,
+    "submitted_id_value": "308.375",
+    "restored_review_id": "7401:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 56,
+    "submitted_id_value": "308.37569444444443",
+    "restored_review_id": "7401:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 57,
+    "submitted_id_value": "308.37638888888887",
+    "restored_review_id": "7401:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 58,
+    "submitted_id_value": "204.58333333333334",
+    "restored_review_id": "4910:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 59,
+    "submitted_id_value": "204.58402777777778",
+    "restored_review_id": "4910:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 60,
+    "submitted_id_value": "204.58472222222221",
+    "restored_review_id": "4910:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 61,
+    "submitted_id_value": "307.37569444444443",
+    "restored_review_id": "7377:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 62,
+    "submitted_id_value": "7.5",
+    "restored_review_id": "180:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 63,
+    "submitted_id_value": "7.5013888888888891",
+    "restored_review_id": "180:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 64,
+    "submitted_id_value": "6.083333333333333",
+    "restored_review_id": "146:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 65,
+    "submitted_id_value": "6.084027777777778",
+    "restored_review_id": "146:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 66,
+    "submitted_id_value": "6.0847222222222221",
+    "restored_review_id": "146:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 67,
+    "submitted_id_value": "210.75",
+    "restored_review_id": "5058:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 68,
+    "submitted_id_value": "114.54305555555555",
+    "restored_review_id": "2749:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 69,
+    "submitted_id_value": "202.95902777777778",
+    "restored_review_id": "4871:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 70,
+    "submitted_id_value": "64.375694444444449",
+    "restored_review_id": "1545:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 71,
+    "submitted_id_value": "99.834027777777777",
+    "restored_review_id": "2396:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 72,
+    "submitted_id_value": "186.54166666666666",
+    "restored_review_id": "4477:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 73,
+    "submitted_id_value": "186.54305555555555",
+    "restored_review_id": "4477:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 74,
+    "submitted_id_value": "209.16736111111112",
+    "restored_review_id": "5020:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 75,
+    "submitted_id_value": "209.16805555555555",
+    "restored_review_id": "5020:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 76,
+    "submitted_id_value": "147.79166666666666",
+    "restored_review_id": "3547:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 77,
+    "submitted_id_value": "147.79236111111112",
+    "restored_review_id": "3547:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 78,
+    "submitted_id_value": "147.79305555555555",
+    "restored_review_id": "3547:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 79,
+    "submitted_id_value": "74.875",
+    "restored_review_id": "1797:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 80,
+    "submitted_id_value": "122.33333333333333",
+    "restored_review_id": "2936:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 81,
+    "submitted_id_value": "122.33402777777778",
+    "restored_review_id": "2936:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 82,
+    "submitted_id_value": "122.33472222222223",
+    "restored_review_id": "2936:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 83,
+    "submitted_id_value": "220.54305555555555",
+    "restored_review_id": "5293:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 84,
+    "submitted_id_value": "99.708333333333329",
+    "restored_review_id": "2393:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 85,
+    "submitted_id_value": "99.709027777777777",
+    "restored_review_id": "2393:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 86,
+    "submitted_id_value": "99.709722222222226",
+    "restored_review_id": "2393:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 87,
+    "submitted_id_value": "152.70972222222221",
+    "restored_review_id": "3665:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 88,
+    "submitted_id_value": "264.5",
+    "restored_review_id": "6348:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 89,
+    "submitted_id_value": "264.50069444444443",
+    "restored_review_id": "6348:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 90,
+    "submitted_id_value": "244.16666666666666",
+    "restored_review_id": "5860:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 91,
+    "submitted_id_value": "244.16736111111112",
+    "restored_review_id": "5860:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 92,
+    "submitted_id_value": "244.16805555555555",
+    "restored_review_id": "5860:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 93,
+    "submitted_id_value": "19.291666666666668",
+    "restored_review_id": "463:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 94,
+    "submitted_id_value": "19.292361111111113",
+    "restored_review_id": "463:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 95,
+    "submitted_id_value": "19.293055555555554",
+    "restored_review_id": "463:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 96,
+    "submitted_id_value": "271.25",
+    "restored_review_id": "6510:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 97,
+    "submitted_id_value": "271.25069444444443",
+    "restored_review_id": "6510:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 98,
+    "submitted_id_value": "271.25138888888887",
+    "restored_review_id": "6510:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 99,
+    "submitted_id_value": "200.08402777777778",
+    "restored_review_id": "4802:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 100,
+    "submitted_id_value": "109.04236111111111",
+    "restored_review_id": "2617:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 101,
+    "submitted_id_value": "283.04236111111112",
+    "restored_review_id": "6793:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 102,
+    "submitted_id_value": "181.41736111111112",
+    "restored_review_id": "4354:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 103,
+    "submitted_id_value": "181.41805555555555",
+    "restored_review_id": "4354:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 104,
+    "submitted_id_value": "238.125",
+    "restored_review_id": "5715:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 105,
+    "submitted_id_value": "105.33333333333333",
+    "restored_review_id": "2528:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 106,
+    "submitted_id_value": "105.33402777777778",
+    "restored_review_id": "2528:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 107,
+    "submitted_id_value": "105.33472222222223",
+    "restored_review_id": "2528:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 108,
+    "submitted_id_value": "308.33333333333331",
+    "restored_review_id": "7400:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 109,
+    "submitted_id_value": "308.33402777777781",
+    "restored_review_id": "7400:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 110,
+    "submitted_id_value": "161.29166666666666",
+    "restored_review_id": "3871:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 111,
+    "submitted_id_value": "185.54236111111112",
+    "restored_review_id": "4453:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 112,
+    "submitted_id_value": "101.54236111111111",
+    "restored_review_id": "2437:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 113,
+    "submitted_id_value": "101.54305555555555",
+    "restored_review_id": "2437:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 114,
+    "submitted_id_value": "70.375694444444449",
+    "restored_review_id": "1689:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 115,
+    "submitted_id_value": "193.79305555555555",
+    "restored_review_id": "4651:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 116,
+    "submitted_id_value": "300.75",
+    "restored_review_id": "7218:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 117,
+    "submitted_id_value": "300.75069444444443",
+    "restored_review_id": "7218:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 118,
+    "submitted_id_value": "300.75138888888887",
+    "restored_review_id": "7218:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 119,
+    "submitted_id_value": "146.08402777777778",
+    "restored_review_id": "3506:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 120,
+    "submitted_id_value": "17.584027777777777",
+    "restored_review_id": "422:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 121,
+    "submitted_id_value": "20.583333333333332",
+    "restored_review_id": "494:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 122,
+    "submitted_id_value": "20.584722222222222",
+    "restored_review_id": "494:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 123,
+    "submitted_id_value": "226.33333333333334",
+    "restored_review_id": "5432:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 124,
+    "submitted_id_value": "176.25",
+    "restored_review_id": "4230:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 125,
+    "submitted_id_value": "176.25069444444443",
+    "restored_review_id": "4230:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 126,
+    "submitted_id_value": "176.2513888888889",
+    "restored_review_id": "4230:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 127,
+    "submitted_id_value": "100.625",
+    "restored_review_id": "2415:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 128,
+    "submitted_id_value": "100.62569444444445",
+    "restored_review_id": "2415:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 129,
+    "submitted_id_value": "251.37569444444443",
+    "restored_review_id": "6033:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 130,
+    "submitted_id_value": "4.291666666666667",
+    "restored_review_id": "103:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 131,
+    "submitted_id_value": "56",
+    "restored_review_id": "1344:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 132,
+    "submitted_id_value": "56.000694444444441",
+    "restored_review_id": "1344:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 133,
+    "submitted_id_value": "56.00138888888889",
+    "restored_review_id": "1344:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 134,
+    "submitted_id_value": "198.00069444444443",
+    "restored_review_id": "4752:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 135,
+    "submitted_id_value": "212.875",
+    "restored_review_id": "5109:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 136,
+    "submitted_id_value": "116.91666666666667",
+    "restored_review_id": "2806:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 137,
+    "submitted_id_value": "116.91736111111111",
+    "restored_review_id": "2806:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 138,
+    "submitted_id_value": "116.91805555555555",
+    "restored_review_id": "2806:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 139,
+    "submitted_id_value": "173.75069444444443",
+    "restored_review_id": "4170:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 140,
+    "submitted_id_value": "268.70902777777781",
+    "restored_review_id": "6449:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 141,
+    "submitted_id_value": "176.87569444444443",
+    "restored_review_id": "4245:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 142,
+    "submitted_id_value": "176.8763888888889",
+    "restored_review_id": "4245:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 143,
+    "submitted_id_value": "123.08333333333333",
+    "restored_review_id": "2954:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 144,
+    "submitted_id_value": "123.08472222222223",
+    "restored_review_id": "2954:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 145,
+    "submitted_id_value": "146.00069444444443",
+    "restored_review_id": "3504:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 146,
+    "submitted_id_value": "146.0013888888889",
+    "restored_review_id": "3504:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 147,
+    "submitted_id_value": "228.58333333333334",
+    "restored_review_id": "5486:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 148,
+    "submitted_id_value": "228.58402777777778",
+    "restored_review_id": "5486:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 149,
+    "submitted_id_value": "228.58472222222221",
+    "restored_review_id": "5486:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 150,
+    "submitted_id_value": "94.083333333333329",
+    "restored_review_id": "2258:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 151,
+    "submitted_id_value": "94.084027777777777",
+    "restored_review_id": "2258:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 152,
+    "submitted_id_value": "94.084722222222226",
+    "restored_review_id": "2258:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 153,
+    "submitted_id_value": "255.75069444444443",
+    "restored_review_id": "6138:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 154,
+    "submitted_id_value": "255.7513888888889",
+    "restored_review_id": "6138:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 155,
+    "submitted_id_value": "74.001388888888883",
+    "restored_review_id": "1776:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 156,
+    "submitted_id_value": "74.041666666666671",
+    "restored_review_id": "1777:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 157,
+    "submitted_id_value": "74.042361111111106",
+    "restored_review_id": "1777:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 158,
+    "submitted_id_value": "228.54236111111112",
+    "restored_review_id": "5485:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 159,
+    "submitted_id_value": "103.58333333333333",
+    "restored_review_id": "2486:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 160,
+    "submitted_id_value": "103.58402777777778",
+    "restored_review_id": "2486:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 161,
+    "submitted_id_value": "103.58472222222223",
+    "restored_review_id": "2486:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 162,
+    "submitted_id_value": "145.20833333333334",
+    "restored_review_id": "3485:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 163,
+    "submitted_id_value": "145.20902777777778",
+    "restored_review_id": "3485:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 164,
+    "submitted_id_value": "145.20972222222221",
+    "restored_review_id": "3485:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 165,
+    "submitted_id_value": "267.66736111111112",
+    "restored_review_id": "6424:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 166,
+    "submitted_id_value": "51.334027777777777",
+    "restored_review_id": "1232:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 167,
+    "submitted_id_value": "66.917361111111106",
+    "restored_review_id": "1606:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 168,
+    "submitted_id_value": "66.918055555555554",
+    "restored_review_id": "1606:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 169,
+    "submitted_id_value": "286.62638888888887",
+    "restored_review_id": "6879:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 170,
+    "submitted_id_value": "143.25",
+    "restored_review_id": "3438:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 171,
+    "submitted_id_value": "143.25069444444443",
+    "restored_review_id": "3438:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 172,
+    "submitted_id_value": "143.2513888888889",
+    "restored_review_id": "3438:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 173,
+    "submitted_id_value": "74.500694444444449",
+    "restored_review_id": "1788:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 174,
+    "submitted_id_value": "275.20833333333331",
+    "restored_review_id": "6605:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 175,
+    "submitted_id_value": "275.20972222222224",
+    "restored_review_id": "6605:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 176,
+    "submitted_id_value": "36.333333333333336",
+    "restored_review_id": "872:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 177,
+    "submitted_id_value": "36.334027777777777",
+    "restored_review_id": "872:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 178,
+    "submitted_id_value": "36.334722222222226",
+    "restored_review_id": "872:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 179,
+    "submitted_id_value": "254.95902777777778",
+    "restored_review_id": "6119:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 180,
+    "submitted_id_value": "254.95972222222221",
+    "restored_review_id": "6119:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 181,
+    "submitted_id_value": "190.33402777777778",
+    "restored_review_id": "4568:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 182,
+    "submitted_id_value": "233.625",
+    "restored_review_id": "5607:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 183,
+    "submitted_id_value": "284.25",
+    "restored_review_id": "6822:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 184,
+    "submitted_id_value": "284.25069444444443",
+    "restored_review_id": "6822:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 185,
+    "submitted_id_value": "93.833333333333329",
+    "restored_review_id": "2252:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 186,
+    "submitted_id_value": "93.834027777777777",
+    "restored_review_id": "2252:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 187,
+    "submitted_id_value": "93.834722222222226",
+    "restored_review_id": "2252:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 188,
+    "submitted_id_value": "16.791666666666668",
+    "restored_review_id": "403:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 189,
+    "submitted_id_value": "19.958333333333332",
+    "restored_review_id": "479:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 190,
+    "submitted_id_value": "43.916666666666664",
+    "restored_review_id": "1054:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 191,
+    "submitted_id_value": "43.918055555555554",
+    "restored_review_id": "1054:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 192,
+    "submitted_id_value": "87.334722222222226",
+    "restored_review_id": "2096:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 193,
+    "submitted_id_value": "218.62569444444443",
+    "restored_review_id": "5247:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 194,
+    "submitted_id_value": "218.6263888888889",
+    "restored_review_id": "5247:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 195,
+    "submitted_id_value": "130.95902777777778",
+    "restored_review_id": "3143:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 196,
+    "submitted_id_value": "101.16736111111111",
+    "restored_review_id": "2428:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 197,
+    "submitted_id_value": "101.16805555555555",
+    "restored_review_id": "2428:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 198,
+    "submitted_id_value": "288.54305555555555",
+    "restored_review_id": "6925:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 199,
+    "submitted_id_value": "40.333333333333336",
+    "restored_review_id": "968:0",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 200,
+    "submitted_id_value": "40.334027777777777",
+    "restored_review_id": "968:1",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  },
+  {
+    "excel_row": 201,
+    "submitted_id_value": "40.334722222222226",
+    "restored_review_id": "968:2",
+    "method": "exact unique original_text + paraphrase_text match",
+    "id_restored": true
+  }
+]

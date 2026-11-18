@@ -1,0 +1,50 @@
+{
+  "status": "author_context_review_received_and_fields_validated",
+  "received_utc": "2026-11-14T00:43:29.351457+00:00",
+  "pairs": 200,
+  "unique_ids": 200,
+  "exact_source_and_variant_matches": 200,
+  "ids_restored_by_exact_text_pair": 200,
+  "human_response_values_modified": false,
+  "source_workbook_sha256": "01d007219a35e107769a1a61c49a19979a9147a62f7c7d817c41617b4eb7276d",
+  "validated_csv_sha256": "37e46c88575fc90f722713556458e314621cfa126d314b112388e5972bf571fb",
+  "reviewers": [
+    "Junil Min"
+  ],
+  "review_dates": [
+    "2026-11-13"
+  ],
+  "meaning_counts": {
+    "yes": 163,
+    "no": 37
+  },
+  "label_counts": {
+    "yes": 200
+  },
+  "error_type_counts": {
+    "Changed action or event": 18,
+    "Changed subject or object": 14,
+    "Omitted information": 43,
+    "Added information": 17,
+    "Wording only": 44,
+    "Changed scope or qualifier": 10,
+    "Changed fact": 19,
+    "Changed attribution": 2,
+    "Changed causal relationship": 5,
+    "Changed certainty": 11,
+    "Changed negation": 1,
+    "Changed person or organization": 3,
+    "Changed location": 5,
+    "Changed date or time": 6,
+    "Changed number or quantity": 2
+  },
+  "criterion": "Preservation of the main event and overall context; minor factual differences may be tolerated. User explicitly confirmed this interpretation on 2026-11-13.",
+  "provenance": "Author-reported human additional review by Junil Min, not authenticated independent review or agreement between original reviewers.",
+  "scope_limits": [
+    "Selected unresolved subset of 200 pairs, not random sample of all 22,800 variants",
+    "Context preservation is not strict fact-level semantic equivalence",
+    "Original 600-pair independent judgments, agreement and kappa remain unchanged",
+    "No source text, frozen paraphrase, model score or predictive result overwritten",
+    "New K=5 bank still requires separately documented preparation and actual quality review"
+  ]
+}

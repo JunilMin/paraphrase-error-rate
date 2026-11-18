@@ -1,0 +1,17 @@
+{
+  "status": "all_200_response_fields_validated",
+  "review_provenance": "author additional human adjudication; identity and independence are author-reported; not consensus between original reviewers",
+  "pairs": 200,
+  "meaning_counts": {
+    "yes": 163,
+    "no": 37
+  },
+  "label_counts": {
+    "yes": 200
+  },
+  "reviewers": [
+    "Junil Min"
+  ],
+  "completed_csv_sha256": "37e46c88575fc90f722713556458e314621cfa126d314b112388e5972bf571fb",
+  "original_records_modified": false
+}
