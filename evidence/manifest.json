@@ -1,0 +1,1214 @@
+{
+  "format_version": 1,
+  "compression": "gzip; mtime=0",
+  "entries": [
+    {
+      "cohort": "original",
+      "path": "main/seed_13/run.json",
+      "archive": "evidence/original/main/seed_13/run.json.gz",
+      "sha256": "eeff7cdce08dfd107f41b0dd3652db755d17cf14017726bf11e85a492da08efc",
+      "gzip_sha256": "b155fdf4d649ebc711de6d53de6f79f344ccc8025ccf4301b0567ed52e32b112",
+      "uncompressed_bytes": 61577
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/after_A.jsonl",
+      "archive": "evidence/original/main/seed_13/after_A.jsonl.gz",
+      "sha256": "7835be74124208bbfc656317f3dd5624464dbae4558e655b66dd54155ade759f",
+      "gzip_sha256": "64ebe9adeec9a62e205f8de2ec6ee11fb653318419dc1abcc3c8d80afc6761b4",
+      "uncompressed_bytes": 5950048
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/after_B.jsonl",
+      "archive": "evidence/original/main/seed_13/after_B.jsonl.gz",
+      "sha256": "0df04b877a0c2a539de3bd20651b1954991e2870d7f4f55f583b6362c129b41c",
+      "gzip_sha256": "daad273d18815844b707010042bd0753babd98a08bc131b9b881795b894ad95b",
+      "uncompressed_bytes": 5952030
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/after_C.jsonl",
+      "archive": "evidence/original/main/seed_13/after_C.jsonl.gz",
+      "sha256": "9a8df94d51ec4c581be6610502f591a5f65eaeba4acda54e2c3c928bf5aed84e",
+      "gzip_sha256": "e76d883e7f141dbd61fe509bda7b97ad8d7dc9a90b147ce2d4991bf1dcce953b",
+      "uncompressed_bytes": 5972097
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/inconsistency.jsonl",
+      "archive": "evidence/original/main/seed_13/inconsistency.jsonl.gz",
+      "sha256": "7502403b7c98a4dceaf61c97aa87629a3044337fe513928cc6464312e82d22fa",
+      "gzip_sha256": "54fcedb3d0b9626df4142e7471d7b006859228f75df7001815f4182dcd14a20d",
+      "uncompressed_bytes": 459410
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/results.csv",
+      "archive": "evidence/original/main/seed_13/results.csv.gz",
+      "sha256": "4596537c1c328df3643e2e8face181f48a503efa8d442cc3eee706073713018a",
+      "gzip_sha256": "121e923e2d938baa6ffb18897f7432eb01681162c6d590fadf451c3b24f22034",
+      "uncompressed_bytes": 3264947
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_13/summary.csv",
+      "archive": "evidence/original/main/seed_13/summary.csv.gz",
+      "sha256": "eb19f9d3a9d1c8dd5ca5dba1aadf39c15fc3464234aec9c9df5c6a25407ea5d0",
+      "gzip_sha256": "4983e683688c418d7b6fd2676469c7fc7d26b882d903228eb7920730d2cf289c",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/run.json",
+      "archive": "evidence/original/main/seed_42/run.json.gz",
+      "sha256": "48411afee5987c38c4501310a739f073c2e419f9aeb5dab9cad34a11ded96d89",
+      "gzip_sha256": "7f9cf70324bb9c058ea4320564bce73f0a5349b8c921f8e4100b6431a18d9b39",
+      "uncompressed_bytes": 61689
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/after_A.jsonl",
+      "archive": "evidence/original/main/seed_42/after_A.jsonl.gz",
+      "sha256": "be93907c98054a6051ec31fc2ac9c3d6d062bd8b225f6de0556bd7ec8eebadaf",
+      "gzip_sha256": "6520547b82cc0b1f1e46a6088f4f940eab837ab62f304be04ed3a739ebd02f58",
+      "uncompressed_bytes": 5960234
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/after_B.jsonl",
+      "archive": "evidence/original/main/seed_42/after_B.jsonl.gz",
+      "sha256": "a23a06422d5f485f9cafb6c6370d1ab46153ba22f249a015f6bbb4ea9a2ef803",
+      "gzip_sha256": "ce5d5e0aca01c6dd4e1944b18cc12656a0de2a5e8c02c2e5ec913e210e1adb9f",
+      "uncompressed_bytes": 5958668
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/after_C.jsonl",
+      "archive": "evidence/original/main/seed_42/after_C.jsonl.gz",
+      "sha256": "4a1544ae6d6188b8d4f6df15e2e1d69f007d3a4fac0cfec9b6a9c6484daf0727",
+      "gzip_sha256": "f6099af2a69dccf20349db153ff3922989265baf27ac8e8733749674445b55a4",
+      "uncompressed_bytes": 5984681
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/inconsistency.jsonl",
+      "archive": "evidence/original/main/seed_42/inconsistency.jsonl.gz",
+      "sha256": "f5c8d69553f8f5f31d45c9a864e420970d93ade364046c423aff60237adc4342",
+      "gzip_sha256": "9389549620ca1f44ba783b1877b90a214fd24452f0d2d710390e74ceae937127",
+      "uncompressed_bytes": 457071
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/results.csv",
+      "archive": "evidence/original/main/seed_42/results.csv.gz",
+      "sha256": "1222cf5de8bbf4f386275b8bb8a27fbb9a7a7e5ec7cb0d38017daa6bea192ba7",
+      "gzip_sha256": "bb60a6289d8e34515913bc0e759f7feb7b16ba3991bb6b3a8d3e0eb288a0a5f0",
+      "uncompressed_bytes": 3266728
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_42/summary.csv",
+      "archive": "evidence/original/main/seed_42/summary.csv.gz",
+      "sha256": "014e1d27960ca7b57451390cc2773bc097017cd795fb847cc93aebd10a97c947",
+      "gzip_sha256": "25092f6b37e06ace571642e2b66d3430ce4f13947caa5a7c0ba9f0d3f1e340aa",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/run.json",
+      "archive": "evidence/original/main/seed_77/run.json.gz",
+      "sha256": "6a5ca4407aa0268cdb1a62beb2a15b196cd703b4180e33e0f023d08718cfeffc",
+      "gzip_sha256": "83a51254643cdff3f3bade72ab647e24892fdd3011886343022c7ed2f95fa25f",
+      "uncompressed_bytes": 61605
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/after_A.jsonl",
+      "archive": "evidence/original/main/seed_77/after_A.jsonl.gz",
+      "sha256": "105ea4f4f17859de68fda21016a9eeb7087e2edbf98cdff7774aed83728fc17f",
+      "gzip_sha256": "3d420a2d8ce23418ee813eb5d2c69cb66e98153433d9a55970dc8aaa857afa84",
+      "uncompressed_bytes": 5956955
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/after_B.jsonl",
+      "archive": "evidence/original/main/seed_77/after_B.jsonl.gz",
+      "sha256": "145f4721350cefddb99f10fbce12613571086b4cb2b579072972dff4a0569f52",
+      "gzip_sha256": "c4e81d598c9aeb55eeb34e4748c470b37455ff55a59284ea659d0a17db2d2517",
+      "uncompressed_bytes": 5942937
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/after_C.jsonl",
+      "archive": "evidence/original/main/seed_77/after_C.jsonl.gz",
+      "sha256": "ecda5c991315f224feec9bd83829c0f3afa60124a9f97c225710bc9ae3f639d2",
+      "gzip_sha256": "0b508a0e5ddfef41a2bfe15ed326227bd16fa8c57d2804c5abaa49c03096f438",
+      "uncompressed_bytes": 5960762
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/inconsistency.jsonl",
+      "archive": "evidence/original/main/seed_77/inconsistency.jsonl.gz",
+      "sha256": "05853b3f61c6fe248677a6dd2bf5bf31996dc875c92dc91c23f139e44466a3dd",
+      "gzip_sha256": "255c69139688e4e5b7f2020ae89311b7b895cc76108528e896badb25391603cd",
+      "uncompressed_bytes": 459102
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/results.csv",
+      "archive": "evidence/original/main/seed_77/results.csv.gz",
+      "sha256": "f80172edfe97b5ff0d5bb288cd5c680354252d1cebef088254d527d5277dae54",
+      "gzip_sha256": "4f96feac256763fc852c548df06bbc5d3ab699c1597319bc218f02e1d6a95e02",
+      "uncompressed_bytes": 3266584
+    },
+    {
+      "cohort": "original",
+      "path": "main/seed_77/summary.csv",
+      "archive": "evidence/original/main/seed_77/summary.csv.gz",
+      "sha256": "f5597e02e491597d0346fbdb5a073a5da4d9cd455e0f65bce138c791d6e8410a",
+      "gzip_sha256": "7bd666104909859c10079e889c8bf58bb660a0b0ff9831ef8a95409c8273784a",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "original",
+      "path": "tables/associations.csv",
+      "archive": "evidence/original/tables/associations.csv.gz",
+      "sha256": "e837f2274c9a59d8b4c6d17845d1d52684c9a296cd95232798b40f79aa7ecc5b",
+      "gzip_sha256": "b7368343c5aa59112db6344631097d8f08f3923e438ae4fb709ebc499040ed76",
+      "uncompressed_bytes": 1559
+    },
+    {
+      "cohort": "original",
+      "path": "tables/oof_predictions.csv",
+      "archive": "evidence/original/tables/oof_predictions.csv.gz",
+      "sha256": "41fdb78bca50c38dd9e8ddfb5d252cb5144bbfb84a3ee687706ea50365805c18",
+      "gzip_sha256": "6356667926e7c5ea538d16e1456b5d4a6f4192feda6cf1103a3e187b45d3e1b3",
+      "uncompressed_bytes": 10309625
+    },
+    {
+      "cohort": "original",
+      "path": "tables/paired_differences.csv",
+      "archive": "evidence/original/tables/paired_differences.csv.gz",
+      "sha256": "2301dc0c0ef90627d6ff6386536593670acacd9e446c652cf2f545edaee167de",
+      "gzip_sha256": "06d69b4c46164926096ed0e1b474760d241740f62be34a5ee706c31b3ea42166",
+      "uncompressed_bytes": 2604
+    },
+    {
+      "cohort": "original",
+      "path": "tables/paraphrase_quality.json",
+      "archive": "evidence/original/tables/paraphrase_quality.json.gz",
+      "sha256": "72ae675790b3b0d57ef053e64d38580ef91a63b5fdaac4395ba62b861c215ec0",
+      "gzip_sha256": "0f8bde4c28dc47ce59bcc58dbbf7ca62487c76d5a1fb263a1dc3d081a7083a03",
+      "uncompressed_bytes": 1574
+    },
+    {
+      "cohort": "original",
+      "path": "tables/predictor_scores.csv",
+      "archive": "evidence/original/tables/predictor_scores.csv.gz",
+      "sha256": "934da996ca73bbd27dfdecbc6580054175b0a8fd05904829a55b9a839ca64c39",
+      "gzip_sha256": "e38db4eb815a785a0abbe5b9a7f95c7e39ce20e63a53e8a006e83736fe76ba7d",
+      "uncompressed_bytes": 4057
+    },
+    {
+      "cohort": "original",
+      "path": "tables/README.md",
+      "archive": "evidence/original/tables/README.md.gz",
+      "sha256": "e41c181c2e6d7d732b984715ceb0cc69f6707b53f24cc4cfe4a33de73aa9f231",
+      "gzip_sha256": "b88e92d93b086f348f5f851fbc624f5b1e02fb7c6e2bd7fc7bd15afa1e7cad12",
+      "uncompressed_bytes": 518
+    },
+    {
+      "cohort": "original",
+      "path": "tables/sample_summary.csv",
+      "archive": "evidence/original/tables/sample_summary.csv.gz",
+      "sha256": "df668a735b5f1bd97d9b77d43232f9a49d538a86088703af39bf6f37ce5cb1a7",
+      "gzip_sha256": "ea3aa612bf7cfdbe942ac0f65349142383f7abc90c7ff91a8e40973e18b2e1ea",
+      "uncompressed_bytes": 347
+    },
+    {
+      "cohort": "original",
+      "path": "tables/seed_summary.csv",
+      "archive": "evidence/original/tables/seed_summary.csv.gz",
+      "sha256": "fc9b0aaa7f1eccfbd1b1be6d800d7c37eda58b29704d1a4636a87c9cb8756c90",
+      "gzip_sha256": "79f94af49c15a75d3da15a38d2b45eedc40e2cdc59a5fc0bcd12e27c21037869",
+      "uncompressed_bytes": 2013
+    },
+    {
+      "cohort": "original",
+      "path": "figures/forgetting_by_inconsistency.png",
+      "archive": "evidence/original/figures/forgetting_by_inconsistency.png.gz",
+      "sha256": "2a4e93b1cc8c79a7db65e66efceb9e55be18838d237491a52b9265cfe040a1c8",
+      "gzip_sha256": "26152d2ffc9c543b256e8064dd2aa1a9527b19def63b0d8fed9170da6c647ebd",
+      "uncompressed_bytes": 159925
+    },
+    {
+      "cohort": "original",
+      "path": "figures/predictor_performance.png",
+      "archive": "evidence/original/figures/predictor_performance.png.gz",
+      "sha256": "9132570a6e00394e5adf727916868ee7151c46420dd3ffa7e34b7013282058c5",
+      "gzip_sha256": "05952a212f535be6086a46c3793b4bfde922a699176318c065e346ddc4a28322",
+      "uncompressed_bytes": 348351
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/analysis_metadata.json",
+      "archive": "evidence/original/paper_analysis/analysis_metadata.json.gz",
+      "sha256": "10c1b8bd995e0b5b70376cdde94daf889b66784be318a98b155325b3f6b65413",
+      "gzip_sha256": "f38f549e5cde70cb5780f6d48f34c4b391eb6931cb708bf2cf3e74603a3cc389",
+      "uncompressed_bytes": 782
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/figures/per_distribution.png",
+      "archive": "evidence/original/paper_analysis/figures/per_distribution.png.gz",
+      "sha256": "1892c205d75ff994b8acf9c85e64691cae741c224d534b2f74b2753dbf6b696b",
+      "gzip_sha256": "c19232e3eede6f8bff6799a0c8db1150b5a7b05100e4064030017896cc53bfc2",
+      "uncompressed_bytes": 60310
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/confidence_conditioned.csv",
+      "archive": "evidence/original/paper_analysis/tables/confidence_conditioned.csv.gz",
+      "sha256": "24e64afbe987ef4bb77d480e0cc025551de269f48cbeadcaef81b591b0f32234",
+      "gzip_sha256": "1028e53527112b083579f5c6d33d1503c86efea2e5999503970b05da2aac26c0",
+      "uncompressed_bytes": 734
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/feature_redundancy.csv",
+      "archive": "evidence/original/paper_analysis/tables/feature_redundancy.csv.gz",
+      "sha256": "df2bb1d979627aa053edd8e8c5f91a9f1b86c40c2d2e014f86a7dbce37487b34",
+      "gzip_sha256": "5dfe46452a353a1625e2272dcd740a92e2aab533a73a42aed60b91b5f7cb0c6a",
+      "uncompressed_bytes": 240
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/per_binary_rates.csv",
+      "archive": "evidence/original/paper_analysis/tables/per_binary_rates.csv.gz",
+      "sha256": "58c33aede12f0c5ceb8de6c42862fa24b6e6df74220c1d66dfbd9c6f9295b711",
+      "gzip_sha256": "52c912aef65844d06f678e6763ca7e4854a5693676fac2dc0e0aec15a029cba6",
+      "uncompressed_bytes": 549
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/per_distribution.csv",
+      "archive": "evidence/original/paper_analysis/tables/per_distribution.csv.gz",
+      "sha256": "5559a571c3997be0c26e788610536b440f0e47e35e79fcd59ce9d3e14b6a35d0",
+      "gzip_sha256": "d8b8ae22151c1a0e5534f0b9ce8c8119458820916bcb37b0dc74729fd822854b",
+      "uncompressed_bytes": 1041
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/reverse_transitions.csv",
+      "archive": "evidence/original/paper_analysis/tables/reverse_transitions.csv.gz",
+      "sha256": "8b0377fa845fb893c7756397261fd9d20891fad480eaa616a6391a4f6656d07f",
+      "gzip_sha256": "3b88308877c53a1d7b2baa56f48c86926d25084595669ea5f53c86b3b78959e2",
+      "uncompressed_bytes": 750
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/three_feature_oof.csv",
+      "archive": "evidence/original/paper_analysis/tables/three_feature_oof.csv.gz",
+      "sha256": "1a8ed05431feb8f37fa64264a0fc28d15cbe8c341e821824ca9fb926039edc81",
+      "gzip_sha256": "992aa14766720de001374118f382b3f835ed019825863f73bf5ef76a3705b007",
+      "uncompressed_bytes": 10309199
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/three_feature_paired_differences.csv",
+      "archive": "evidence/original/paper_analysis/tables/three_feature_paired_differences.csv.gz",
+      "sha256": "1ac3171d74c19c75ba7db4ec402435ba98c6b3becc3db8cd616f7fe04a91f418",
+      "gzip_sha256": "61771dc935deada0cb29b1d2a5332a701c770ceb269c5b67d654046e34160da3",
+      "uncompressed_bytes": 2590
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/three_feature_scores.csv",
+      "archive": "evidence/original/paper_analysis/tables/three_feature_scores.csv.gz",
+      "sha256": "d672bc2508974c726cf3fe6ab3d47c030d395999d054ca688174dce43772d54c",
+      "gzip_sha256": "e1b9ac0e2aa5f4e55bd0528a64ced3c7ae5826adb47c52cc378c0797fac3f4ad",
+      "uncompressed_bytes": 1498
+    },
+    {
+      "cohort": "original",
+      "path": "paper_analysis/tables/three_feature_summary.csv",
+      "archive": "evidence/original/paper_analysis/tables/three_feature_summary.csv.gz",
+      "sha256": "b862e21abfcf16216afd398990ee4961f13b6ab410011737de9e0f17918bd537",
+      "gzip_sha256": "95833541e0947fe9a96b5986342fcdab8bb71c1154e19ac2248f26d2918dd43a",
+      "uncompressed_bytes": 682
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/run.json",
+      "archive": "evidence/more_seeds/main/seed_101/run.json.gz",
+      "sha256": "7bfb50a6b3b9393bf9e682f8ec940be1996ab353707937552f3de0fc46dbcf51",
+      "gzip_sha256": "59b57892b9d2a9fcc57d89e37cf93b5fa75b39b96fa44133663f877a92466117",
+      "uncompressed_bytes": 61678
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/after_A.jsonl",
+      "archive": "evidence/more_seeds/main/seed_101/after_A.jsonl.gz",
+      "sha256": "916753714c3a3b327c71cfc53d1cfbed5918f80e7851e9615e6ff88da953f6ab",
+      "gzip_sha256": "0c2bfb7ca7fccd60cb498cea6e3d38eae35f5c988983cc5a23e225628081bcad",
+      "uncompressed_bytes": 5943524
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/after_B.jsonl",
+      "archive": "evidence/more_seeds/main/seed_101/after_B.jsonl.gz",
+      "sha256": "4c824350a25747bfde764997d8d6f6dd0be56bfc148bd83970161a41a81eda12",
+      "gzip_sha256": "988189d0a2112ddfc77205694564c1670a4e2b216e59c4c00de1cc52c247452c",
+      "uncompressed_bytes": 5939667
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/after_C.jsonl",
+      "archive": "evidence/more_seeds/main/seed_101/after_C.jsonl.gz",
+      "sha256": "68ac7ff3a36a6ad2924f2fbab3879e0f61914be6edaec9be1cbf8c2f711aad32",
+      "gzip_sha256": "24aa584362e99f1278cf2e47dad762e16dcc5f3f5a3e6d05f2ed68b35f071ca6",
+      "uncompressed_bytes": 5964057
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/inconsistency.jsonl",
+      "archive": "evidence/more_seeds/main/seed_101/inconsistency.jsonl.gz",
+      "sha256": "2d53e64d1ee30a85617f0f379a14c1aabd99df1ac893cd3b97e68832a26d41af",
+      "gzip_sha256": "1c78e9da8b321de0ba6e8073b19d8673fd2806e1bacab13759df5b53b7ca18d3",
+      "uncompressed_bytes": 457657
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/results.csv",
+      "archive": "evidence/more_seeds/main/seed_101/results.csv.gz",
+      "sha256": "577442f88925a75fcbaddb584b0f1e5b7e02b04e808308db37c19c213451eff7",
+      "gzip_sha256": "9be177c4c3391e33a3906e656844ca69a5f12194d6a414f56cf8abe41826350a",
+      "uncompressed_bytes": 3270386
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_101/summary.csv",
+      "archive": "evidence/more_seeds/main/seed_101/summary.csv.gz",
+      "sha256": "59b25ec47da8b3cbd9921ebcc1a05ee4162229f20bbf34f3670fad7da9448b43",
+      "gzip_sha256": "898c281c3583b38f8ba75654963d8f08c3cf0fedfc82f2dec182026006ffefdb",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/run.json",
+      "archive": "evidence/more_seeds/main/seed_202/run.json.gz",
+      "sha256": "3b99ccf4254aadb0c8cbc3d01f3d4b2b4b15cfbc40b9941f7ffcfa7967a0a48c",
+      "gzip_sha256": "48d3fedee72376dc69597e4e79b5396001de352b40ac7de70e77664d94a15439",
+      "uncompressed_bytes": 61693
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/after_A.jsonl",
+      "archive": "evidence/more_seeds/main/seed_202/after_A.jsonl.gz",
+      "sha256": "1c0e8526c3cadbba6d4c1c43811d34ad4d3d881332de2f69191315c460713046",
+      "gzip_sha256": "b059a14231a180a3837741c0690a80e1c79d94ea1dc17dfa6b141748a23f8125",
+      "uncompressed_bytes": 5947214
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/after_B.jsonl",
+      "archive": "evidence/more_seeds/main/seed_202/after_B.jsonl.gz",
+      "sha256": "17ca135fb4075561d76bfd8c501f19a4d705995164f93f80968454ac361e3d7e",
+      "gzip_sha256": "0e7366753fbb38857dc51b6428f9dbadee6cc604e354f101803a1d99b5d96cfd",
+      "uncompressed_bytes": 5944504
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/after_C.jsonl",
+      "archive": "evidence/more_seeds/main/seed_202/after_C.jsonl.gz",
+      "sha256": "9ba31853895d63f488b4f671327346b7f731d90dd29659028460e216a8d16208",
+      "gzip_sha256": "83d6d1f73654215b7fb709ceaddb8dabf547f59bb320966e331f90ad5221e1f6",
+      "uncompressed_bytes": 5979538
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/inconsistency.jsonl",
+      "archive": "evidence/more_seeds/main/seed_202/inconsistency.jsonl.gz",
+      "sha256": "eb0d99a91c9bd5754807cba6c995cabf6b45458321a50c6a8e83dad6b5cc7588",
+      "gzip_sha256": "8b9beb2ba21585feaa4878ab8b838acaef3375e350afba8c69c0b7d4e103cb12",
+      "uncompressed_bytes": 457732
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/results.csv",
+      "archive": "evidence/more_seeds/main/seed_202/results.csv.gz",
+      "sha256": "3f011f3562e296ea96df007de0f97cd338d4b6645ebfa33fdaa631a9db593807",
+      "gzip_sha256": "cd58fcf878e1d1d3e1a47aeef32e9d29dff624c8783f81e2e6f74ba0e5365e82",
+      "uncompressed_bytes": 3270895
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_202/summary.csv",
+      "archive": "evidence/more_seeds/main/seed_202/summary.csv.gz",
+      "sha256": "ef1bd175f40852458a04e63ab3366741a534803595cdc49b39b044d3801a9482",
+      "gzip_sha256": "1383da2c139e4f73824da821fd5ff811693a59139eba406a0637a3d19acb4e7c",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/run.json",
+      "archive": "evidence/more_seeds/main/seed_303/run.json.gz",
+      "sha256": "c55fc8c3a07701a12ab32cf7a43f9f685d37c30e1e5921b27b85b3cf3f49751e",
+      "gzip_sha256": "819a9308af7d83df943bf87423fc6dc3b6633d0c4c4af70f71c17566c7b5daf0",
+      "uncompressed_bytes": 61661
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/after_A.jsonl",
+      "archive": "evidence/more_seeds/main/seed_303/after_A.jsonl.gz",
+      "sha256": "79f124da225b306eee56152f9e39a595a06efd8f9c94b633d9c7390564c7a355",
+      "gzip_sha256": "ce24d33230f5736521995529a2e69e4da87b20a0651bed604ab0bba9bc0e7ce3",
+      "uncompressed_bytes": 5951188
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/after_B.jsonl",
+      "archive": "evidence/more_seeds/main/seed_303/after_B.jsonl.gz",
+      "sha256": "4689fc27549a4c9b5a3c35074d9197d830a11210a6f8c3d8feefb66596090df9",
+      "gzip_sha256": "fe3bc0c957fa37ee45942f0a9225501d3d3d473753d84e88c99dca60a5273dbd",
+      "uncompressed_bytes": 5941689
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/after_C.jsonl",
+      "archive": "evidence/more_seeds/main/seed_303/after_C.jsonl.gz",
+      "sha256": "0005a2950b014c1b8272c3b0cb0d85019a0ce6f6be8806c4fd3bcb2c36151c39",
+      "gzip_sha256": "3d6ed1aa9c53c4ea2b26982794b59d3ea00f865774d5a31a5b15274feee2bf26",
+      "uncompressed_bytes": 5970636
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/inconsistency.jsonl",
+      "archive": "evidence/more_seeds/main/seed_303/inconsistency.jsonl.gz",
+      "sha256": "7ab684b151b07745f1791dda14af94eae198e7b653dc8f619d0f609f1baab350",
+      "gzip_sha256": "e515debb9768ab60d2af05d477986fa6eb0d1d8b09ccf9167ff75ac909df4b60",
+      "uncompressed_bytes": 452991
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/results.csv",
+      "archive": "evidence/more_seeds/main/seed_303/results.csv.gz",
+      "sha256": "bc6fab2452dcc8b86bfce268398a121e6677585d02c8b7d195fba0f677f980b9",
+      "gzip_sha256": "8f8dabe4f8058cca7beef0932b8c8a030e73890d0598c8b7d28f6c3e49b58f2b",
+      "uncompressed_bytes": 3272064
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_303/summary.csv",
+      "archive": "evidence/more_seeds/main/seed_303/summary.csv.gz",
+      "sha256": "efa14f6f95d1a44770e7b3379b7dfaa8833288b0aafed36b070874bdfa466181",
+      "gzip_sha256": "f07d2fc31deab7e90c1b0cef530bfdde104a60a63d77571260c179ebeea3443f",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/run.json",
+      "archive": "evidence/more_seeds/main/seed_404/run.json.gz",
+      "sha256": "01b238110e5e75d8e6c353251ac80d22e4312bdd9a4b590a8588c8bb4f21d87c",
+      "gzip_sha256": "e591a6c2b7b1183ac97fe23aeb587a29f74c3564c96c4152d09a504011ed556a",
+      "uncompressed_bytes": 61682
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/after_A.jsonl",
+      "archive": "evidence/more_seeds/main/seed_404/after_A.jsonl.gz",
+      "sha256": "cd7a6904dea30559fa24511cc6d7247e0bc136edc52b7d31f70171a8aedd099f",
+      "gzip_sha256": "63c8c121ad27b2031906d7fde1ce612db1ddf6758d9f99e1b44fdcecc68ef528",
+      "uncompressed_bytes": 5950675
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/after_B.jsonl",
+      "archive": "evidence/more_seeds/main/seed_404/after_B.jsonl.gz",
+      "sha256": "b80f751bcdb79ca7ef403288e224488dd89894dbc8e4b61132e56600939ca74f",
+      "gzip_sha256": "a81a0443558cad9906aba00b50ff2d78d3b4aad517153f6d02a7362f29a2197a",
+      "uncompressed_bytes": 5938489
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/after_C.jsonl",
+      "archive": "evidence/more_seeds/main/seed_404/after_C.jsonl.gz",
+      "sha256": "f792c874f626c3c8853e109b22f743a7d3d30374a1a0bcc5d6897f60192b405a",
+      "gzip_sha256": "2c767bf934d8b028fbccb738ad877fe80280b05a6f62399000b6837e03f9bce3",
+      "uncompressed_bytes": 5976029
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/inconsistency.jsonl",
+      "archive": "evidence/more_seeds/main/seed_404/inconsistency.jsonl.gz",
+      "sha256": "5783836469cb2581e37e8d10fba3a88fb196bb67283e75eb7bbfda0cb6397c8f",
+      "gzip_sha256": "aecfe69bd7aaf0a640293bc4caca991f2284f48ede4ed8d79b853ca7fd4d592e",
+      "uncompressed_bytes": 455012
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/results.csv",
+      "archive": "evidence/more_seeds/main/seed_404/results.csv.gz",
+      "sha256": "7afa7e6c828059cbc4f7139ff398d63988f1dd20b60d2dc7cc5a26ebda3e1e7f",
+      "gzip_sha256": "0f9224b3e314754b1a2dd894c7dd39563df0a66232d76f3a651fc30940619a6a",
+      "uncompressed_bytes": 3271916
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_404/summary.csv",
+      "archive": "evidence/more_seeds/main/seed_404/summary.csv.gz",
+      "sha256": "0a2a9500cb509c880de592b45b08079003ac37a2d980c03fdd62e6984649626a",
+      "gzip_sha256": "5dc719253ae36aa61a0ba0cb305d65834bc555147fba0c6d870bdc5ffeef4a96",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/run.json",
+      "archive": "evidence/more_seeds/main/seed_505/run.json.gz",
+      "sha256": "4132fc0c0d622189abef851a5de5487f44886575c4cf6d95d9a0715ca3c3bb08",
+      "gzip_sha256": "0fa5b26a38990e29ae24c4bf088dd5477f8d03f91df8452cc877d079082408bf",
+      "uncompressed_bytes": 61673
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/after_A.jsonl",
+      "archive": "evidence/more_seeds/main/seed_505/after_A.jsonl.gz",
+      "sha256": "4eacc06a42393a9c470af8edf29eadd1c570cd23ada52b19d3a40eb542077b8a",
+      "gzip_sha256": "3a25fed001ba2e75e78d516713edcdbd598491763be45e3523494787ddec7703",
+      "uncompressed_bytes": 5963918
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/after_B.jsonl",
+      "archive": "evidence/more_seeds/main/seed_505/after_B.jsonl.gz",
+      "sha256": "6ac4f524122ec072bf14e182b5b11fe27f7119aa67a9a5568f04220d0705d5a1",
+      "gzip_sha256": "b18573371a43e6a9fb64d45fd3aa59256b59c08e31f946eaac2b89fa220e1909",
+      "uncompressed_bytes": 5943517
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/after_C.jsonl",
+      "archive": "evidence/more_seeds/main/seed_505/after_C.jsonl.gz",
+      "sha256": "8bf37b7ffdac5de80f166f82f2de0933fbb6dd797d1d3a25e2e03c80503a0744",
+      "gzip_sha256": "e816e5a2b325f453185f5e073a189f0c8d78f1d804bab1319ff7304692d41dd9",
+      "uncompressed_bytes": 5964728
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/inconsistency.jsonl",
+      "archive": "evidence/more_seeds/main/seed_505/inconsistency.jsonl.gz",
+      "sha256": "8f7394349b76b8c06fb4d814618db5a88b86923ea1f2ec3ea5b53a229a7ed68c",
+      "gzip_sha256": "6958024b019f1079bccaf4c1648865ed4cec9fa888535cd2b188dd3f531e1736",
+      "uncompressed_bytes": 457594
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/results.csv",
+      "archive": "evidence/more_seeds/main/seed_505/results.csv.gz",
+      "sha256": "8aa98812663fc1065cf9e84da7fa4907890ac3b08a5ba9a577c4a41aaddad713",
+      "gzip_sha256": "e305340e4591fd60ac003828a7be42b1849c88774ceadd9450aeebe0c5c21b33",
+      "uncompressed_bytes": 3275882
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "main/seed_505/summary.csv",
+      "archive": "evidence/more_seeds/main/seed_505/summary.csv.gz",
+      "sha256": "8e7c167a3d1c6b5d2df572920295345811b30aebbec8c181cb304b1ca9970339",
+      "gzip_sha256": "0dd61fd09df806345b8ac74e43cdff1ab98cbe84c5d45c83955dac487fc0f53e",
+      "uncompressed_bytes": 213
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/associations.csv",
+      "archive": "evidence/more_seeds/tables/associations.csv.gz",
+      "sha256": "504af8c6a74290abca66e4ffb02ba9a7f7b2ef260f7bc733d28492f414fd8648",
+      "gzip_sha256": "8b6d081736538bb09129bc91d5074e88a97382216e23080c6229370d5d7d1032",
+      "uncompressed_bytes": 2590
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/oof_predictions.csv",
+      "archive": "evidence/more_seeds/tables/oof_predictions.csv.gz",
+      "sha256": "996500e44d045c306b5b82f50fe7454329ed9e01bf44fd1e39679ca3a801a6e4",
+      "gzip_sha256": "15bbe2289b1b2a915cf075eed0150419c263a24b8a9c967b90eb8427523dde47",
+      "uncompressed_bytes": 17181318
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/paired_differences.csv",
+      "archive": "evidence/more_seeds/tables/paired_differences.csv.gz",
+      "sha256": "a9ccff00f8ed0b8ec591c58e2190fe9709e58de7900a94ebc4888db3ba4498fe",
+      "gzip_sha256": "584dc891718c6c223c977cc6af2661fc02999a94fb982a8cb9bbd4837162889e",
+      "uncompressed_bytes": 4296
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/predictor_scores.csv",
+      "archive": "evidence/more_seeds/tables/predictor_scores.csv.gz",
+      "sha256": "b9cc1e9550881137f61b220d0529b518d38a535167c930d70d00a082e9885ea9",
+      "gzip_sha256": "18821f62dd22eec0621fb150a7e2f1e0adf91306dab40381dcd23689fb66ae6b",
+      "uncompressed_bytes": 6755
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/sample_summary.csv",
+      "archive": "evidence/more_seeds/tables/sample_summary.csv.gz",
+      "sha256": "8d2d67e110ef78a33bb3348bb4def7b6508241984b83f469fce06a664e8d6cb5",
+      "gzip_sha256": "097ac5adb378c59fe3f764a27ad841d89c3bcf0f8330af41accb3680c14e6ce1",
+      "uncompressed_bytes": 489
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "tables/seed_summary.csv",
+      "archive": "evidence/more_seeds/tables/seed_summary.csv.gz",
+      "sha256": "89f6642100b947b51c2c631f780618c7bd383cacb9b0353c8abcd861984667df",
+      "gzip_sha256": "b55c2289a64c2d9c9319d51b483055b23c24f20391d4cbd10edde118893ae4bd",
+      "uncompressed_bytes": 2008
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "figures/forgetting_by_inconsistency.png",
+      "archive": "evidence/more_seeds/figures/forgetting_by_inconsistency.png.gz",
+      "sha256": "f9fb4d33410018b6ebf99d505f56ff87f5ab7383b523cce2fa287f67363bf8f4",
+      "gzip_sha256": "bcc57e46521949ad13e2dc651e3ca647a69ae8dee1c1a5df57b7dca5e4708b43",
+      "uncompressed_bytes": 217648
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "figures/predictor_performance.png",
+      "archive": "evidence/more_seeds/figures/predictor_performance.png.gz",
+      "sha256": "1d6804cda67b53316b959ecbc81436631dce5a9976a7d82545fe33f11216c012",
+      "gzip_sha256": "62af3814d051d716041ba86a87595bb7ded3ca1d67cde61857587aac9d8d2a0d",
+      "uncompressed_bytes": 378668
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/analysis_metadata.json",
+      "archive": "evidence/more_seeds/followup_paper_analysis/analysis_metadata.json.gz",
+      "sha256": "23479bd9d1476095bdc111cc57be93dcaa864ca5ef95afda54ae31823a835cb1",
+      "gzip_sha256": "8bdd47366695f05b4391c017a89ad653aec056a86c9ed742c2adc4d2dee6af31",
+      "uncompressed_bytes": 1023
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/figures/per_distribution.png",
+      "archive": "evidence/more_seeds/followup_paper_analysis/figures/per_distribution.png.gz",
+      "sha256": "d532c25e3ce8a5635331ebe6681b70c9c0f6709c251c6607eade79b960fd8eac",
+      "gzip_sha256": "8310dbfd2999fb07569b14fa8ea6815f477fa4ab9a0d5a652a50fcfb91a1216a",
+      "uncompressed_bytes": 69721
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/confidence_conditioned.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/confidence_conditioned.csv.gz",
+      "sha256": "e310e3b37d9994e698b589cd725010fe654c377972b85ecd688c9adf263fce1f",
+      "gzip_sha256": "ac89751163c85da6b939a9f891007e0d2dbb315174a680a02414de7fe4c04735",
+      "uncompressed_bytes": 1182
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/feature_redundancy.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/feature_redundancy.csv.gz",
+      "sha256": "eb9f4f74eb89f987c71762e26f57a66a559d0da06c87bd2bd5679e75193adb89",
+      "gzip_sha256": "a719c67dab3a23690d29efd8e068ab48a74b1e8c069d68360094dec54e18d3ba",
+      "uncompressed_bytes": 337
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/per_binary_rates.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/per_binary_rates.csv.gz",
+      "sha256": "715ea3a41630584c692957c8c974b56faa9a22d8f99d61f9922dcd4a3199d883",
+      "gzip_sha256": "4c0dc5f59f4a0c6c4a066fca0c64a599da394b4c8cd787d76713c5299bca1c26",
+      "uncompressed_bytes": 891
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/per_distribution.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/per_distribution.csv.gz",
+      "sha256": "e5d9b06ab25a36deb786b5e5e190b7a07e4c23c79ea5705475fe119f8b6f2877",
+      "gzip_sha256": "16c83a355ce1d0faa1f94ffeaf7271d0479ecdb67e2c4fef37f9ec45c346e02b",
+      "uncompressed_bytes": 1736
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/reverse_transitions.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/reverse_transitions.csv.gz",
+      "sha256": "8e7875cae43671a846e5e6ed15fd38c94753c799b52106ad64d57eb4cf892a57",
+      "gzip_sha256": "08b3cfe4545d08ae23fe3ba5705400c604b729932b1e07f594c7600e1fa0acd9",
+      "uncompressed_bytes": 1093
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/three_feature_oof.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/three_feature_oof.csv.gz",
+      "sha256": "0e6e92f1ada9332295d14b55af8061d70ccd041d711ff9c2b53eadff38fac317",
+      "gzip_sha256": "47cdf3591afc685cb73f3b1d2aabf274748532eea93cae20a0a6d1397e475329",
+      "uncompressed_bytes": 17181201
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/three_feature_paired_differences.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/three_feature_paired_differences.csv.gz",
+      "sha256": "6071e0f02f9e2de5e7c61b2d114bf163def582c4d63cdbcbc060c0afb6d8dac6",
+      "gzip_sha256": "462dc67badcc402824e6f442b09cfed47c72f6da4224d9b877ff131646619a63",
+      "uncompressed_bytes": 4307
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/three_feature_scores.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/three_feature_scores.csv.gz",
+      "sha256": "0b09a58bad4f5f3fa9681c65540c313b59cd365d95065df5cafe7046c0f043bc",
+      "gzip_sha256": "626441d89a22ca63aa7cecab401fb649cd8a8a3723dd3252fb8df93a3b8bcaeb",
+      "uncompressed_bytes": 2453
+    },
+    {
+      "cohort": "more_seeds",
+      "path": "followup_paper_analysis/tables/three_feature_summary.csv",
+      "archive": "evidence/more_seeds/followup_paper_analysis/tables/three_feature_summary.csv.gz",
+      "sha256": "eb6cf9c35c289fb78eb9a693c9b45a471142474ed26b77af2d3a7e965425b290",
+      "gzip_sha256": "730d390c16a309f4c76aa8ba6ba1b81863629fe7d50b725a2f7e47badb0c819a",
+      "uncompressed_bytes": 683
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/run.json",
+      "archive": "evidence/reverse_order/main/seed_13/run.json.gz",
+      "sha256": "ba833b26491adb568b3ecd471c3c6e317facbd2ec30cfefb74b150f750de55f5",
+      "gzip_sha256": "85745cea86fbb487eeb5c458cb91b98993b1da2a9316fe979fd97c8250246710",
+      "uncompressed_bytes": 61572
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/after_A.jsonl",
+      "archive": "evidence/reverse_order/main/seed_13/after_A.jsonl.gz",
+      "sha256": "7835be74124208bbfc656317f3dd5624464dbae4558e655b66dd54155ade759f",
+      "gzip_sha256": "64ebe9adeec9a62e205f8de2ec6ee11fb653318419dc1abcc3c8d80afc6761b4",
+      "uncompressed_bytes": 5950048
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/after_B.jsonl",
+      "archive": "evidence/reverse_order/main/seed_13/after_B.jsonl.gz",
+      "sha256": "3efb6f8ec0d4f207d8e2df7826bc2eaa70c195478b580192105f4d81c079abcb",
+      "gzip_sha256": "fcadaf58457313011acca0cb4b63af7fff8057137311abe8fd516acb6c186483",
+      "uncompressed_bytes": 5973868
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/after_C.jsonl",
+      "archive": "evidence/reverse_order/main/seed_13/after_C.jsonl.gz",
+      "sha256": "6e9f9f35177217da49e86fd201ffda80a982e2c80603ee186d567acd09f5e1db",
+      "gzip_sha256": "3f4c3472322f6ee7174711375a983fecf4fab07bd6905b349b18138f3252fc68",
+      "uncompressed_bytes": 5952925
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/inconsistency.jsonl",
+      "archive": "evidence/reverse_order/main/seed_13/inconsistency.jsonl.gz",
+      "sha256": "7502403b7c98a4dceaf61c97aa87629a3044337fe513928cc6464312e82d22fa",
+      "gzip_sha256": "54fcedb3d0b9626df4142e7471d7b006859228f75df7001815f4182dcd14a20d",
+      "uncompressed_bytes": 459410
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/results.csv",
+      "archive": "evidence/reverse_order/main/seed_13/results.csv.gz",
+      "sha256": "97b8d4da30ca9106d0d1bac806797f01b46cf9654d8aeafbea7cc5b07b2c5070",
+      "gzip_sha256": "4ac93791e9bdac8b9b1e5f4c02828ee5396ea1474a4fccc5084129c71a258728",
+      "uncompressed_bytes": 3264829
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_13/summary.csv",
+      "archive": "evidence/reverse_order/main/seed_13/summary.csv.gz",
+      "sha256": "6841b03beb191b7e1a64443dc7be52bbcba1b733f90f84ce25b3baa57d65656b",
+      "gzip_sha256": "73a263818553cea7b887255c172cdc07aac754e26031f75ee4b36ef13be99df1",
+      "uncompressed_bytes": 211
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/run.json",
+      "archive": "evidence/reverse_order/main/seed_42/run.json.gz",
+      "sha256": "d83b7d3726ebdaebbdebc793b95f00606239a2f39b77554879d6ee9f1f8ef615",
+      "gzip_sha256": "cfbb77abc3c484de023d183fb8e52981d4e87d8ee19d81da7a747554b0d08116",
+      "uncompressed_bytes": 61664
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/after_A.jsonl",
+      "archive": "evidence/reverse_order/main/seed_42/after_A.jsonl.gz",
+      "sha256": "be93907c98054a6051ec31fc2ac9c3d6d062bd8b225f6de0556bd7ec8eebadaf",
+      "gzip_sha256": "6520547b82cc0b1f1e46a6088f4f940eab837ab62f304be04ed3a739ebd02f58",
+      "uncompressed_bytes": 5960234
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/after_B.jsonl",
+      "archive": "evidence/reverse_order/main/seed_42/after_B.jsonl.gz",
+      "sha256": "42ea50123681ca5977be9d39dd5e30e728f18535537c273288dacbd37cb90578",
+      "gzip_sha256": "7e5603eefa722f3ac37f6f441b9b589dbc9a4bb47c579537f8fabdd2d33ceca8",
+      "uncompressed_bytes": 5978488
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/after_C.jsonl",
+      "archive": "evidence/reverse_order/main/seed_42/after_C.jsonl.gz",
+      "sha256": "654cafb6bc37134368d109c6301fface375ce5a3e867fa67e03de7f366cc88be",
+      "gzip_sha256": "8a05e22032f0786537ac29672aa4bf497563e2e007a043d64f2422dc2e5b1818",
+      "uncompressed_bytes": 5937200
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/inconsistency.jsonl",
+      "archive": "evidence/reverse_order/main/seed_42/inconsistency.jsonl.gz",
+      "sha256": "f5c8d69553f8f5f31d45c9a864e420970d93ade364046c423aff60237adc4342",
+      "gzip_sha256": "9389549620ca1f44ba783b1877b90a214fd24452f0d2d710390e74ceae937127",
+      "uncompressed_bytes": 457071
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/results.csv",
+      "archive": "evidence/reverse_order/main/seed_42/results.csv.gz",
+      "sha256": "745338604d48ff367198cf078d216022d6c594194273ca394fee255b1b0a81e7",
+      "gzip_sha256": "100bdb9e9399751958afbbc8f3508c2396cd0ad4ec5404a3c5572dd9502a169f",
+      "uncompressed_bytes": 3266692
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_42/summary.csv",
+      "archive": "evidence/reverse_order/main/seed_42/summary.csv.gz",
+      "sha256": "30574f1edcd0672524e08e7e5f30fbd175f7e4cf6feb4ab1f937a633886f6021",
+      "gzip_sha256": "93aff5ac21ca5134b70654f1a381d0ac216a650fa8f14b3c67b84fd4c5eff155",
+      "uncompressed_bytes": 210
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/run.json",
+      "archive": "evidence/reverse_order/main/seed_77/run.json.gz",
+      "sha256": "a5fe41a2b5e6bfd557e476804293e9f299bc0dd8e5b76a7940a0a29a98593e3e",
+      "gzip_sha256": "279f6ca04f6d29dbf4926767a6bb688989b63d15228cfeeee7ab5459c58cbd99",
+      "uncompressed_bytes": 61606
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/after_A.jsonl",
+      "archive": "evidence/reverse_order/main/seed_77/after_A.jsonl.gz",
+      "sha256": "105ea4f4f17859de68fda21016a9eeb7087e2edbf98cdff7774aed83728fc17f",
+      "gzip_sha256": "3d420a2d8ce23418ee813eb5d2c69cb66e98153433d9a55970dc8aaa857afa84",
+      "uncompressed_bytes": 5956955
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/after_B.jsonl",
+      "archive": "evidence/reverse_order/main/seed_77/after_B.jsonl.gz",
+      "sha256": "e7b2068338b6ec3e4c04ab9569a8babe32dd53425bf3f3a278d38bbc0a5dcf56",
+      "gzip_sha256": "0386ef94708e209fe65b8a451b7c5684b35e9592541e6ae6294226c5e9dcc8c1",
+      "uncompressed_bytes": 5984696
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/after_C.jsonl",
+      "archive": "evidence/reverse_order/main/seed_77/after_C.jsonl.gz",
+      "sha256": "4133d1861cfde7c53cc268d84279622af4844d34e0466db61dc553ac37b0cc1c",
+      "gzip_sha256": "e350cb973ed7cc997d55931467feee65267a058ff849a58adf383fafc4bb3ec3",
+      "uncompressed_bytes": 5946913
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/inconsistency.jsonl",
+      "archive": "evidence/reverse_order/main/seed_77/inconsistency.jsonl.gz",
+      "sha256": "05853b3f61c6fe248677a6dd2bf5bf31996dc875c92dc91c23f139e44466a3dd",
+      "gzip_sha256": "255c69139688e4e5b7f2020ae89311b7b895cc76108528e896badb25391603cd",
+      "uncompressed_bytes": 459102
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/results.csv",
+      "archive": "evidence/reverse_order/main/seed_77/results.csv.gz",
+      "sha256": "62437d7eab997458bda520081913c3ff02ef3729d2d0050ae945c4a7847d2e49",
+      "gzip_sha256": "2c67b51737f681b8b6b82bdb120fc9da325dbf4457d17842e55b765362925cc1",
+      "uncompressed_bytes": 3266531
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "main/seed_77/summary.csv",
+      "archive": "evidence/reverse_order/main/seed_77/summary.csv.gz",
+      "sha256": "b7108d4b2a0b071f5c10b06aef49374f9e090c792785929747bd3e7b9dfb0017",
+      "gzip_sha256": "f80638c31c58bf28df0ee8b64d36968cf8893371be7b69b72935deae821e031e",
+      "uncompressed_bytes": 212
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/associations.csv",
+      "archive": "evidence/reverse_order/tables/associations.csv.gz",
+      "sha256": "5c8abe2b4721e0256d39a615db1ee3b7c6937c59ea80db1fb4ef5997c7055558",
+      "gzip_sha256": "9da4355805ab032e5460d86bb198e9ed4628f7ccca2b46d7234fadd4d20673bc",
+      "uncompressed_bytes": 1554
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/oof_predictions.csv",
+      "archive": "evidence/reverse_order/tables/oof_predictions.csv.gz",
+      "sha256": "0f3a5dac298c9e82ba5329bea05fdfc2ae35d894c8bba5effb65272852d2ffff",
+      "gzip_sha256": "86bdc19610cb6478e1ec2ed5d515fd9291d61522780c1130d8ffdab4b5e339d6",
+      "uncompressed_bytes": 10269208
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/paired_differences.csv",
+      "archive": "evidence/reverse_order/tables/paired_differences.csv.gz",
+      "sha256": "79592034c3a78a2e501a84e4a2f3c98875d48e8dc94407514992c49675612b7e",
+      "gzip_sha256": "ea3c5f8206d27e9058aa67e4ecb2da66b9e6c14dba7e8b169905ef16e6e50201",
+      "uncompressed_bytes": 2606
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/predictor_scores.csv",
+      "archive": "evidence/reverse_order/tables/predictor_scores.csv.gz",
+      "sha256": "d70651f5f2910b372b8100b9870313c950185b93fec4b80f90429b5ee687cb11",
+      "gzip_sha256": "9b3888173a9275b2323e659be23257104a5c28b20c294f721329e2d39d6edb88",
+      "uncompressed_bytes": 4054
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/sample_summary.csv",
+      "archive": "evidence/reverse_order/tables/sample_summary.csv.gz",
+      "sha256": "6c2baca084e310bbacf5168335aae9593fc8c03b1c86057f03c32d4aed043da9",
+      "gzip_sha256": "c8c290393f2e0d7489c38e4cd31eeba0089001dc2e39379c296fb02f5e480f9a",
+      "uncompressed_bytes": 347
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "tables/seed_summary.csv",
+      "archive": "evidence/reverse_order/tables/seed_summary.csv.gz",
+      "sha256": "60297e7048efb14ed46cd7fffb80935d833a7d04f5066502fa113c717aff99a0",
+      "gzip_sha256": "3e5ed91a115bab396f81fb5cb693f87b30c800417aff5340670a4de3904e6094",
+      "uncompressed_bytes": 2008
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "figures/forgetting_by_inconsistency.png",
+      "archive": "evidence/reverse_order/figures/forgetting_by_inconsistency.png.gz",
+      "sha256": "75828fb656789e78d3261ade595313e39360c5fd21696c484daaebe5331a86ab",
+      "gzip_sha256": "24460c63802a5ca439422566b253ad48d6dcee8a64b116bd8fedeba47ed209fd",
+      "uncompressed_bytes": 156118
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "figures/predictor_performance.png",
+      "archive": "evidence/reverse_order/figures/predictor_performance.png.gz",
+      "sha256": "f9391a10fd1470eccfe49ba4de42092103be611b4faa3878b6130f1704dc92f7",
+      "gzip_sha256": "553e4fa293665b5eeae89bc8f111ae531c543bbe748ccf66aae4dfe6617841f1",
+      "uncompressed_bytes": 348827
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/analysis_metadata.json",
+      "archive": "evidence/reverse_order/followup_paper_analysis/analysis_metadata.json.gz",
+      "sha256": "33b98cca8c285a4b823a6637d58004ad218d74c58901f8b1b9ed02e572d39011",
+      "gzip_sha256": "0d96e863a3c786f1922abe48972882f9c1dcd680b1343b46f1e89c7200e1ca27",
+      "uncompressed_bytes": 782
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/figures/per_distribution.png",
+      "archive": "evidence/reverse_order/followup_paper_analysis/figures/per_distribution.png.gz",
+      "sha256": "453c69a14872d7f2b038b68b6bc8fc5fe224d13be5548b86ddc2392cccfc6b49",
+      "gzip_sha256": "8a334088787b23ecac560c55bd5785afa8532e7ce262f0bc7a0cdc2010502b9c",
+      "uncompressed_bytes": 63356
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/confidence_conditioned.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/confidence_conditioned.csv.gz",
+      "sha256": "d7c6ea5c3c349a78a052779bea8b9df47cfd22262a3c7cb3eb329c7cd9224c8c",
+      "gzip_sha256": "56711af4ec7bec8941423939c7cd5ff5fac2ddece9695ae88b854800bb2d2cc4",
+      "uncompressed_bytes": 767
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/feature_redundancy.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/feature_redundancy.csv.gz",
+      "sha256": "80d1a710073c8d0d2d29d5c6bbd26231ec1cecb292edf2d0fdaf1c709a99c7d3",
+      "gzip_sha256": "9691025e58a4e130d107524a4a7021c9be41024dd5ddb1cff4e85ed2740bacee",
+      "uncompressed_bytes": 243
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/per_binary_rates.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/per_binary_rates.csv.gz",
+      "sha256": "0115b7c734d4df02ffc55735d172911ac28a4708b32600a56706810403cdfe18",
+      "gzip_sha256": "27cd3d3c999839532c3e3ca1ebab26ff16fe92e21590adbf3570513adcf700e1",
+      "uncompressed_bytes": 553
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/per_distribution.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/per_distribution.csv.gz",
+      "sha256": "2127d77a330d7ad8eda0849327af3be1cb18642e76f828792fdcb7dd0e339e34",
+      "gzip_sha256": "11563f033bd0362d8e6861c9a0a01892fc6b02407f9d28d4bac164b56d5fb055",
+      "uncompressed_bytes": 1052
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/reverse_transitions.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/reverse_transitions.csv.gz",
+      "sha256": "421a7346754eb14bdab461710d10a2809a45964d761610b94d817fb9df7b8635",
+      "gzip_sha256": "f205a5f65effb0f03eb964b80df17429ab6cda044a75b68974f6991b21b88f17",
+      "uncompressed_bytes": 753
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/three_feature_oof.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/three_feature_oof.csv.gz",
+      "sha256": "bd7c0044d0b67e6d6aab9ad14bf14b1da2700d13f71a49fbaddafa4034ac1a61",
+      "gzip_sha256": "d0f5a1a78f880767e6bdce1e983eaab98a889aeb49b2709839211334ded5a0f5",
+      "uncompressed_bytes": 10270448
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/three_feature_paired_differences.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/three_feature_paired_differences.csv.gz",
+      "sha256": "5494bd4156a0e6463f2d8b23facc5a7cb2e6b711d041dcb6c75b608affd7efc9",
+      "gzip_sha256": "167383aecab1accb1322d1098bcc0fea9637b1902c0906ccb063693f5faf2995",
+      "uncompressed_bytes": 2609
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/three_feature_scores.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/three_feature_scores.csv.gz",
+      "sha256": "a97f28f90700406282adac478f66b3b99d6e40677d2c9c7d51a4a4d196d61aab",
+      "gzip_sha256": "859af3337a4d1efa8f7ef3cb4d9eef3d998983929a0b2349cf82a084491902d9",
+      "uncompressed_bytes": 1505
+    },
+    {
+      "cohort": "reverse_order",
+      "path": "followup_paper_analysis/tables/three_feature_summary.csv",
+      "archive": "evidence/reverse_order/followup_paper_analysis/tables/three_feature_summary.csv.gz",
+      "sha256": "a45b2d836f9685e9d85d9bad39d53c0e051ac04c3fe767a723efd7522502d763",
+      "gzip_sha256": "edd5f815059272699ff3c0083fa23be5ad28cb1477d50a3e36e0f1dc8fa42de0",
+      "uncompressed_bytes": 684
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/assistant_adjudication_200.csv",
+      "archive": "evidence/original/human_review/assistant_adjudication_200.csv.gz",
+      "sha256": "61be4b38935f455d913db75de7db2d298ea408c22e7fae48fbec02eb76ccb03a",
+      "gzip_sha256": "1fb5882bac7c7cd281098b835c4b89f8e584935147a1aeef2b46f6f0e378a3ed",
+      "uncompressed_bytes": 136800
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/README.md",
+      "archive": "evidence/original/human_review/README.md.gz",
+      "sha256": "8493fba07b1a526a65376a90050b5d6c51c944c14e7b07cb1f9e56257608f5ea",
+      "gzip_sha256": "05231a8277629c56c802e44e7c42bba85ce334cfe965318b9c9342316d47522d",
+      "uncompressed_bytes": 2206
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/reviewer_1.csv",
+      "archive": "evidence/original/human_review/reviewer_1.csv.gz",
+      "sha256": "7be154dd75b5b3819cf5d23c5cfdc6564dd3cbbce1bc1d0dd51247691b03df25",
+      "gzip_sha256": "474fdf6c1375be0a164b5807e0b3224dd621983b0cd22ac31239cebd5c0cacf3",
+      "uncompressed_bytes": 297881
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/reviewer_2.csv",
+      "archive": "evidence/original/human_review/reviewer_2.csv.gz",
+      "sha256": "70a0efb81c1ac4984a4c4ac0732ca3332a3aa61287e358876020af43384ab324",
+      "gzip_sha256": "44a59e6d9f30a6e51d9b47a000bb7c95910a38c70c8798fa4e59c044cd925f0d",
+      "uncompressed_bytes": 287715
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/sample.json",
+      "archive": "evidence/original/human_review/sample.json.gz",
+      "sha256": "ff7b6334e427dc11534df7470d3423dc06e7e010310e18a9b0f003da21e344ea",
+      "gzip_sha256": "18aef8cdff81995a0390758acbc47b74cc065faa0122a98989c3e68f8973aa64",
+      "uncompressed_bytes": 974
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/analysis/ai_assisted_labels_600.csv",
+      "archive": "evidence/original/human_review/analysis/ai_assisted_labels_600.csv.gz",
+      "sha256": "436d9f2d815f0fbed33afafa747b59534fd47f17d5a2ee2e3eedb8ba1f8d7656",
+      "gzip_sha256": "8d32d498131080d2c737c13783dfc974a256c28b659856a32a7cc055daa7a005",
+      "uncompressed_bytes": 347701
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/analysis/independent_ratings_summary.csv",
+      "archive": "evidence/original/human_review/analysis/independent_ratings_summary.csv.gz",
+      "sha256": "4d2e1fd07911bf972c085bb40f2fe8c55318005231e6d90794413110f4b83e39",
+      "gzip_sha256": "6a1107bd8b7585d68738a9e91658bf7a3323d2451e4a5491cb3bfc0a17202755",
+      "uncompressed_bytes": 689
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/analysis/meaning_confusion_matrix.csv",
+      "archive": "evidence/original/human_review/analysis/meaning_confusion_matrix.csv.gz",
+      "sha256": "1a347ec5eb063df9e09f62e62e6182974fd5ec8ae9bca54f5edb6c40969a708f",
+      "gzip_sha256": "e3761a473cc2ba49472af7d397f38275dff1fc177c3f908936122bc76c6aca9f",
+      "uncompressed_bytes": 168
+    },
+    {
+      "cohort": "original",
+      "path": "human_review/analysis/summary.json",
+      "archive": "evidence/original/human_review/analysis/summary.json.gz",
+      "sha256": "c4f591310a68c054e1ebffb2730dff74392755f38f71f15569ac621826d58458",
+      "gzip_sha256": "c77ee97c91b6e42e6663dcd47e4f220e64154fd6ff8d8957243ffb5c92e6a340",
+      "uncompressed_bytes": 3473
+    },
+    {
+      "cohort": "original",
+      "path": "provenance/preprocessing/seed_13_manifest.json",
+      "archive": "evidence/original/provenance/preprocessing/seed_13_manifest.json.gz",
+      "sha256": "d34f10f53e77ba9bb9d908bc1e592894c34b3c36b807fed1e2622942b246eb02",
+      "gzip_sha256": "74f756f874f3ba3aacbfe0d801318ae14a190b2d2fffe88de57ddd1010a91491",
+      "uncompressed_bytes": 25430
+    },
+    {
+      "cohort": "original",
+      "path": "provenance/preprocessing/seed_42_manifest.json",
+      "archive": "evidence/original/provenance/preprocessing/seed_42_manifest.json.gz",
+      "sha256": "23110e14344021d0d6a87df2fdf086e9d6e75b08d218823d5a27a58f3c7eb367",
+      "gzip_sha256": "5284aac56eb04977d38909a3ced5e964d7152f8cc0895222a6c23764b07b528e",
+      "uncompressed_bytes": 25430
+    },
+    {
+      "cohort": "original",
+      "path": "provenance/preprocessing/seed_77_manifest.json",
+      "archive": "evidence/original/provenance/preprocessing/seed_77_manifest.json.gz",
+      "sha256": "2e54c36326ac1b1a1ee8692db7c42da8ba0459512efa05a29f4d5cfac7a14887",
+      "gzip_sha256": "37405e7d7aaa18e725fdc0279b9d5b633d51c7a67ecb84646ef3c35954cb6782",
+      "uncompressed_bytes": 25430
+    },
+    {
+      "cohort": "original",
+      "path": "cache/paraphrases/ag_news.jsonl",
+      "archive": "evidence/original/cache/paraphrases/ag_news.jsonl.gz",
+      "sha256": "90f2bc1c03a62dded025ba7294451d489d6eb8d0cb09932fbb3101de0b32d911",
+      "gzip_sha256": "9d8d23e620f960e753a4a2b0f1e1090b5c7723e579d833470a4177eae81beae9",
+      "uncompressed_bytes": 4874262
+    },
+    {
+      "cohort": "original",
+      "path": "cache/paraphrases/ag_news.manifest.json",
+      "archive": "evidence/original/cache/paraphrases/ag_news.manifest.json.gz",
+      "sha256": "5902d4988b64a50a0469422b84d245662a7f6dce1e7900f75b2eaf2bbb998a24",
+      "gzip_sha256": "ea1d7f6128045879c569c1a6e2c8b07487554928612d2d87be07812602c11383",
+      "uncompressed_bytes": 2532
+    },
+    {
+      "cohort": "original",
+      "path": "paraphrase_quality.json",
+      "archive": "evidence/original/paraphrase_quality.json.gz",
+      "sha256": "72ae675790b3b0d57ef053e64d38580ef91a63b5fdaac4395ba62b861c215ec0",
+      "gzip_sha256": "0f8bde4c28dc47ce59bcc58dbbf7ca62487c76d5a1fb263a1dc3d081a7083a03",
+      "uncompressed_bytes": 1574
+    }
+  ]
+}
