@@ -1,0 +1,29 @@
+{
+  "version": "PER-K5-extension-20261114-v1",
+  "recorded_utc": "2026-11-14T20:00:39.805112+00:00",
+  "source_records": "C:\\Users\\user\\Dropbox\\research paper\\Research_Project_v03\\Paraphrase_Error_Rate_20261021\\Research_Project\\results\\main\\seed_13\\after_A.jsonl",
+  "original_bank": "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\more_seeds\\results\\cache\\paraphrases\\ag_news.jsonl",
+  "generator": "Qwen/Qwen2.5-3B-Instruct",
+  "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+  "count_new_per_source": 2,
+  "sources": 7600,
+  "new_candidates_target": 15200,
+  "original_three_unchanged": true,
+  "max_attempts_per_source": 3,
+  "do_sample": false,
+  "max_new_tokens": 1536,
+  "generation_seed": 20261114,
+  "new_bank_review_status": "not_generated_not_reviewed",
+  "protocol_note": "Supplementary input generation after some follow-up outcomes exist. All sources retained; no later outcomes, PER, or confidence used for selection or generation. Not retrospective preregistration.",
+  "human_review_plan": "Uniform sample of 200 sources seed20261114; both added variants per source, 400 blank judgments; main context and important facts judged separately; original source category shown, no model or AI judgments. No automatic evaluation or author review attestation.",
+  "input_code_hashes": {
+    "C:\\Users\\user\\Dropbox\\research paper\\Research_Project_v03\\Paraphrase_Error_Rate_20261021\\Research_Project\\results\\main\\seed_13\\after_A.jsonl": "7835be74124208bbfc656317f3dd5624464dbae4558e655b66dd54155ade759f",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\more_seeds\\results\\cache\\paraphrases\\ag_news.jsonl": "90f2bc1c03a62dded025ba7294451d489d6eb8d0cb09932fbb3101de0b32d911",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\extend_bank_k5.py": "649b8cccc2f61e9ecd18bb54ee6f8a310775aa43d52f0cf988a5730f1607692a",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\more_seeds\\src\\paraphrase.py": "2da17dfa154e92c482391be801cfc91996432dce64a29aac9e99854608a18772",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\more_seeds\\src\\model.py": "63e0c308c5b715c5714d318881cceae9006b5eb8253b42a841a2615906dd8cb9",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\more_seeds\\src\\data.py": "945edc861ef7015a6d1ca84f0812138fe59948673e04f04ad56ddb6aca4fa233",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\human_review_status.json": "c003c673cdadae9c4ce36bda1e28404c251dcd7f5c42c71189ea9e243f632081",
+    "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_followup_20261113\\human_review_completed_20261113\\author_review_200_validated.csv": "37e46c88575fc90f722713556458e314621cfa126d314b112388e5972bf571fb"
+  }
+}
