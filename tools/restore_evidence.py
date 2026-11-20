@@ -25,5 +25,5 @@ def restore(cohort,destination,repo=REPO,bank_only=False):
   restored+=1
  return {'cohort':cohort,'restored':restored,'already_identical':skipped,'destination':str(destination)}
 if __name__=='__main__':
- p=argparse.ArgumentParser();p.add_argument('--cohort',default='original',choices=['original','more_seeds','reverse_order']);p.add_argument('--destination',type=Path,default=REPO/'results');p.add_argument('--bank-only',action='store_true');a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument('--cohort',default='original',choices=['original','more_seeds','reverse_order','second_model']);p.add_argument('--destination',type=Path,default=REPO/'results');p.add_argument('--bank-only',action='store_true');a=p.parse_args()
  print(json.dumps(restore(a.cohort,a.destination,bank_only=a.bank_only),indent=2))
