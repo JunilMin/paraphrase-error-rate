@@ -1,0 +1,15 @@
+﻿cohort,seed,test_sources,A_correct,complete_stages,K,model,task_order
+original,13,7600,6924,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+original,42,7600,6896,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+original,77,7600,6914,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+more_seeds,101,7600,6893,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+more_seeds,202,7600,6902,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+more_seeds,303,7600,6816,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+more_seeds,404,7600,6853,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+more_seeds,505,7600,6891,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+reverse_order,13,7600,6924,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> dbpedia_14 -> yelp_review_full
+reverse_order,42,7600,6896,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> dbpedia_14 -> yelp_review_full
+reverse_order,77,7600,6914,ABC,3,Qwen/Qwen2.5-1.5B-Instruct,ag_news -> dbpedia_14 -> yelp_review_full
+second_model,13,7600,6893,ABC,3,HuggingFaceTB/SmolLM2-1.7B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+second_model,42,7600,6919,ABC,3,HuggingFaceTB/SmolLM2-1.7B-Instruct,ag_news -> yelp_review_full -> dbpedia_14
+second_model,77,7600,6937,ABC,3,HuggingFaceTB/SmolLM2-1.7B-Instruct,ag_news -> yelp_review_full -> dbpedia_14

@@ -1,0 +1,17 @@
+﻿cohort,endpoint,actual_later_task,metric,n_runs,n_defined,n_undefined,mean_difference,sample_SD,primary
+original,B,yelp_review_full,auroc,3,3,0,0.0009362905328024936,0.0012579825552697873,True
+original,B,yelp_review_full,average_precision,3,3,0,0.009636319209112176,0.010976046460650863,False
+original,C,dbpedia_14,auroc,3,3,0,0.0009481197617759637,0.001550940057275574,False
+original,C,dbpedia_14,average_precision,3,3,0,0.013624381953119288,0.018575799030395728,False
+more_seeds,B,yelp_review_full,auroc,5,5,0,0.000935095489832638,0.0011055082501073704,True
+more_seeds,B,yelp_review_full,average_precision,5,5,0,0.01611238394953819,0.019000461077222877,False
+more_seeds,C,dbpedia_14,auroc,5,5,0,0.0005037099427680269,0.0007051883503853307,False
+more_seeds,C,dbpedia_14,average_precision,5,5,0,0.009330993168242952,0.01356995983492538,False
+reverse_order,B,dbpedia_14,auroc,3,3,0,0.000826813085373875,0.001355520852385945,True
+reverse_order,B,dbpedia_14,average_precision,3,3,0,0.004129205313071704,0.009792681551545116,False
+reverse_order,C,yelp_review_full,auroc,3,3,0,0.0005385343193734885,0.0005256886187334991,False
+reverse_order,C,yelp_review_full,average_precision,3,3,0,0.006730357414788816,0.011653992834897254,False
+second_model,B,yelp_review_full,auroc,3,3,0,0.0007772327765425876,0.001349159473161647,True
+second_model,B,yelp_review_full,average_precision,3,3,0,0.00919264621322291,0.02159062014491046,False
+second_model,C,dbpedia_14,auroc,3,3,0,9.581123245846108e-05,0.00038135284358622003,False
+second_model,C,dbpedia_14,average_precision,3,3,0,0.0036905712872278285,0.006202346928917515,False

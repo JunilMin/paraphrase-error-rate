@@ -1,0 +1,18 @@
+{
+  "source_hashes": {
+    "cohort_summary.csv": "498257ef9a497f3a4fb851b49065a70d8db5fd9f4a1a3773f50d66135317f469",
+    "seed_effects.csv": "e7efca32e6063d0dfd8d2c308366bfe3349ff5ae7bb8abd187c920e8360c17cf",
+    "coverage_audit.csv": "d82385c974e4d018eaee7e1479b81be3413b8a9319c4af0a12de967f4a143460",
+    "primary_seed_effects.png": "d97b039a061f1355f3e741f8f620f5fccbe055f36749fccf6b12d65900555ebb"
+  },
+  "new_K3_runs": 11,
+  "original_runs": 3,
+  "K5_complete": false,
+  "human_review_criterion": "main context, not strict fact equivalence",
+  "reference_verification": "arXiv v1 author metadata/abstract and official Hugging Face card; fixed model revision recorded from executed configuration",
+  "reference_links": [
+    "https://arxiv.org/abs/2502.02737v1",
+    "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct"
+  ],
+  "builder_sha256": "c64d93a29692f213672166014cec7aa6153658bfaa0ba1960907a175a89119a1"
+}
