@@ -15,7 +15,7 @@ The original results show higher later-error rates in the small PER-positive sub
 - Original experiment: three seeds complete.
 - Additional seeds 101, 202, 303, 404, and 505: complete.
 - Reversed order, AG News → DBpedia-14 → Yelp Review Full, seeds 13, 42, and 77: complete.
-- Second model, SmolLM2-1.7B-Instruct, three planned seeds: ongoing when this snapshot was prepared. Partial-cohort outputs are not presented as final evidence here.
+- Second model, SmolLM2-1.7B-Instruct, seeds 13, 42, and 77: complete. All 11 additional K=3 runs are complete, giving 14 runs with the original cohort.
 - K=5: extra variants and actual quality review are still pending. No K=5 result is claimed.
 - The author supplied additional context-preservation judgments for the original 200 unresolved pairs. These are separate from the original independent review, and do not establish strict semantic equivalence.
 
@@ -95,4 +95,4 @@ The tests need the training dependencies for CPU scoring imports; they do not do
 
 Data revisions and label orders are in `config.yaml`. The bank and outputs remain tied to their original sources. Numerical screens are not semantic validation. New variants must be reviewed separately; favorable outputs must not replace original variants or determine which sources enter the analysis.
 
-The paper file predates the additional experiments. Read it with the human-review addendum and snapshot status; it is not a claim that the ongoing follow-up has finished.
+The original v14 paper predates the additional experiments and is retained unchanged. The five-page supplement in `paper/K3_followup_20261119/` reports all completed K=3 cohorts, including per-seed B and C effects and intervals. Aggregate tables and provenance are in `reports/completed_K3_reports/`. Mean primary B AUROC gains from adding PER to the three-feature baseline are approximately 0.0008–0.0009 across cohorts; these small, seed-dependent effects do not establish consistent improvement. K=5 remains pending and is not included as a completed result.

@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-11-18T23:10:32.273731+00:00",
+  "snapshot_utc": "2026-11-20T02:55:18.624840+00:00",
   "completed_runs": [
     {
       "cohort": "original",
@@ -66,12 +66,30 @@
       "seed": 77,
       "stages": "ABC",
       "evaluation_sources": 7600
+    },
+    {
+      "cohort": "second_model",
+      "seed": 13,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "second_model",
+      "seed": 42,
+      "stages": "ABC",
+      "evaluation_sources": 7600
+    },
+    {
+      "cohort": "second_model",
+      "seed": 77,
+      "stages": "ABC",
+      "evaluation_sources": 7600
     }
   ],
   "followup_K3_planned": 11,
-  "followup_K3_completed_in_this_snapshot": 8,
-  "second_model": "in progress; partial cohort outcomes deliberately not published as final evidence",
-  "K5": "not evaluated; generation and real new-variant quality review remain pending",
+  "followup_K3_completed_in_this_snapshot": 11,
+  "second_model": "All three seeds and their saved-output analyses complete; 14 total K3 runs including the original cohort",
+  "K5": "Generation underway; new-variant human review and K5 evaluation not completed",
   "original_200_review": "completed author context-preservation review, 163 yes/37 no; not strict semantic equivalence or reviewer consensus",
   "frozen_experiment_inputs_changed_by_publication": false
 }
