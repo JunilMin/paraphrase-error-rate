@@ -1,0 +1,22 @@
+{
+  "source": "C:\\Users\\user\\Dropbox\\research paper\\PER_Manuscript_Submission_20261121.docx",
+  "source_sha256": "cb57dbfe893f2d14b74892269550e7c0930433eef389425b20085e4230f27037",
+  "output_sha256": "27a7c0c1e1e0eba76cba347fd59fc2c6764ff25e36845fa478ae809bb1ce999a",
+  "heading_paragraphs_converted": 47,
+  "plain_style_mapping": {
+    "Heading1": "PERPlainHeading1",
+    "Heading2": "PERPlainHeading2",
+    "Heading3": "PERPlainHeading3",
+    "Heading4": "PERPlainHeading4",
+    "Heading5": "PERPlainHeading5",
+    "Heading6": "PERPlainHeading6",
+    "Heading7": "PERPlainHeading7",
+    "Heading8": "PERPlainHeading8",
+    "Heading9": "PERPlainHeading9"
+  },
+  "outline_level": "body text for all paragraphs",
+  "body_and_table_text_unchanged": true,
+  "images_and_hyperlink_targets_unchanged": true,
+  "rendered_pages": 21,
+  "pixel_changed_pages": []
+}

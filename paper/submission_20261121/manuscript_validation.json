@@ -1,8 +1,8 @@
 {
-  "source": "C:\\Users\\user\\Documents\\ChatGPT\\논문 2\\outputs\\PER_revision_20261109\\PER_Manuscript_v14_20261109.docx",
+  "source": "C:\\Users\\user\\Documents\\ChatGPT\\\ub17c\ubb38 2\\outputs\\PER_revision_20261109\\PER_Manuscript_v14_20261109.docx",
   "source_sha256": "9f568a041bd1daedd46d28bae1f632899a954daa25b080ab8c620b9a29facc07",
   "deliverable": "PER_Manuscript_Submission_20261121.docx",
-  "deliverable_sha256": "cb57dbfe893f2d14b74892269550e7c0930433eef389425b20085e4230f27037",
+  "deliverable_sha256": "27a7c0c1e1e0eba76cba347fd59fc2c6764ff25e36845fa478ae809bb1ce999a",
   "all_original_table_values_unchanged": true,
   "original_images_unchanged": true,
   "table_count": 15,
@@ -31,5 +31,9 @@
   "clickable_reference_links": 16,
   "reference_audit_entries": 16,
   "checked_on": "2026-11-21",
-  "qa_status": "passed"
+  "qa_status": "passed",
+  "pre_formatting_sha256": "cb57dbfe893f2d14b74892269550e7c0930433eef389425b20085e4230f27037",
+  "heading_collapse_removed": true,
+  "format_revision": "2026-11-22",
+  "all_21_rendered_pages_pixel_identical_to_previous_verified_version": true
 }
